@@ -13,11 +13,11 @@ Thread pool models (like Apache Tomcat)
 
 👉 Key concepts to study before coding:
 
-Event loop vs thread-per-request
-Non-blocking I/O
-epoll (Linux)
-File descriptors
-Backpressure
+- Event loop vs thread-per-request
+- Non-blocking I/O
+- epoll (Linux)
+- File descriptors
+- Backpressure
 
 # 🔬 Phase 1 — Black Box Experiments (Observe Behavior)
 
