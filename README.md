@@ -4,7 +4,7 @@
 
 You need to internalize this:
 
-NGINX is an event-driven, non-blocking, single-threaded-per-worker system built around epoll/kqueue.
+> NGINX is an event-driven, non-blocking, single-threaded-per-worker load-shaping system built around epoll/kqueue.
 
 Contrast that with:
 

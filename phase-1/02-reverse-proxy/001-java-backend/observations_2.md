@@ -9,8 +9,9 @@
 
 ## Direct backend (Java)
 
-Peak CPU Usage - 215%
-Peak Memory Usage - 150MiB
+| Container | CPU Usage | Memory |
+| --------- | --------- | ------ |
+| Java      | 215%      | 150MiB |
 
 ```
 ➜  02-reverse-proxy git:(main) ✗ autocannon -c 50 -d 20 http://localhost:8081/
@@ -39,11 +40,10 @@ Req/Bytes counts sampled once per second.
 
 ## Via NGINX
 
-NGINX Peak CPU Usage: 80%
-BackendPeak CPU Usage: 117%
-
-NGINX Peak Memory Usage: 5MiB
-Backend Peak Memory Usage: 150MiB
+| Container | CPU Usage | Memory |
+| --------- | --------- | ------ |
+| NGINX     | 80%       | 5MiB   |
+| Backend   | 117%      | 150MiB |
 
 ```
 ➜  02-reverse-proxy git:(main) ✗ autocannon -c 50 -d 20 http://localhost:8080/
