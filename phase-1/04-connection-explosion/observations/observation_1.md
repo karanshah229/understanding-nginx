@@ -2,20 +2,22 @@
 
 ## 📊 Summary of Scale Comparison (1k → 10k → 100k)
 
-| Metric | 1k Test | 10k Test | 100k Test (Peak) |
-| :--- | :--- | :--- | :--- |
-| **Concurrent Conns** | 1,000 | 10,000 | 94,637 (Actual Peak) |
-| **Max FDs** | 1,139 | 10,151 | 97,066 |
-| **Mean Latency** | 26.5 ms | 241 ms | ~17.5 s (Saturated) |
-| **Errors** | 0 | 158 (timeouts) | ~47k (Saturation) |
-| **Nginx CPU** | 129% (RPS Load) | 117% (Burst) | 100.15% (Event Management) |
-| **Nginx Mem** | 517 MiB | 585 MiB | 723 MiB (94% Utilization) |
+| Metric               | 1k Test         | 10k Test       | 100k Test (Peak)           |
+| :------------------- | :-------------- | :------------- | :------------------------- |
+| **Concurrent Conns** | 1,000           | 10,000         | 94,637 (Actual Peak)       |
+| **Max FDs**          | 1,139           | 10,151         | 97,066                     |
+| **Threads (LWP)**    | **~7**          | **~7**         | **~7**                     |
+| **Mean Latency**     | 26.5 ms         | 241 ms         | ~17.5 s (Saturated)        |
+| **Errors**           | 0               | 158 (timeouts) | ~47k (Saturation)          |
+| **Nginx CPU**        | 129% (RPS Load) | 117% (Burst)   | 100.15% (Event Management) |
+| **Nginx Mem**        | 517 MiB         | 585 MiB        | 723 MiB (94% Utilization)  |
 
 ---
 
 ## Before starting load test
 
 FDs: 137
+Threads: 7
 Connections: 0
 
 docker stats
@@ -47,6 +49,7 @@ Req/Bytes counts sampled once per second.
 1480k requests in 30.06s, 350 MB read
 
 FDs: 1139
+Threads: 7
 Connections: 2001
 
 docker stats
@@ -83,6 +86,7 @@ Req/Bytes counts sampled once per second.
 158 errors (158 timeouts)
 
 FDs: 10151
+Threads: 7
 Connections: 20001
 
 docker stats
@@ -121,6 +125,7 @@ Req/Bytes counts sampled once per second.
 238k errors (78k timeouts)
 
 FDs: 16486
+Threads: 7
 Connections: 32699
 
 docker stats
@@ -145,6 +150,7 @@ e88359eabf3a 04-connection-explosion-client-4-1 99.01% 445.8MiB / 768MiB 58.05% 
 1b491529eb0c 04-connection-explosion-client-3-1 99.53% 444.2MiB / 768MiB 57.84% 6.21MB / 5.25MB 0B / 0B 11
 
 Peak FDs: 97066
+Threads: 7
 Peak Connections: 94637
 
 #### Client 1

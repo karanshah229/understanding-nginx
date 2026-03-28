@@ -1,251 +1,507 @@
-# 🧪 Phase 1 — NGINX Deep Understanding via Experiments
+# 🧪 Phase 1 — NGINX Experiments (1-Pagers)
 
-> [!NOTE]
-> **Goal:** Build intuition by observing real system behavior under controlled stress.
-
-We will:
-- [ ] Form a hypothesis
-- [ ] Run an experiment
-- [ ] Measure
-- [ ] Validate or break the hypothesis
+> Goal: Build deep intuition by observing real system behavior under controlled stress.
 
 ---
 
-## ⚙️ Standard Setup (for ALL experiments)
+# ⚙️ Standard Setup (Applies to ALL Experiments)
 
-> [!IMPORTANT]
-> This setup applies to all experiments unless otherwise specified.
+## 🛠️ Stack
 
-### 🛠️ Stack
-- **NGINX**: Managed via Docker
-- **Java Backend**: Spring Boot
-- **Load Tools**: 
-  - `autocannon`
-  - `wrk`
+- NGINX (Docker)
+- Backend: Spring Boot (Java)
+- Load tools:
+    - autocannon
+    - wrk
 
-### 📊 Metrics to ALWAYS observe
-| Category | Metric | Collection Method / Tool |
-| :--- | :--- | :--- |
-| **System** | CPU Utilization | `top`, `htop` |
-| **System** | Memory Usage | `free`, `htop` |
-| **Resources** | Open File Descriptors (FDs) | `lsof | wc -l` |
-| **Performance** | Latency (p50, p95, p99) | `autocannon`, `wrk` |
-| **Performance** | Throughput (RPS) | `autocannon`, `wrk` |
-| **Logs** | NGINX Access & Error Logs | `/var/log/nginx/` |
+## 📊 Metrics to Observe
+
+| Category    | Metric                  | Tool                |
+| ----------- | ----------------------- | ------------------- |
+| CPU         | Utilization per core    | top / htop          |
+| Memory      | Usage                   | htop / docker stats |
+| FDs         | Open file descriptors   | lsof \| wc -l       |
+| Performance | Latency (p50, p95, p99) | autocannon / wrk    |
+| Performance | Throughput (RPS)        | autocannon / wrk    |
+| Logs        | Access / errors         | nginx logs          |
 
 ---
 
-## 🧪 Experiment Group 1 — Baseline Understanding
+# 🧪 Experiment 1 — Static File Throughput
 
-### 🔬 Experiment 1: Static File Throughput
-**Setup**: Serve a large file (100MB) via NGINX.
+## 🎯 Objective
 
-#### 💡 Hypothesis
-NGINX achieves high throughput with low CPU due to **zero-copy (sendfile)**.
+Understand why NGINX is extremely efficient for static content.
 
-#### 📏 Measure
+## ⚙️ Setup
+
+- Serve a large file (100MB) via NGINX
+- Toggle:
+    - `sendfile on`
+    - `sendfile off`
+
+## 💡 Hypothesis
+
+NGINX achieves high throughput with low CPU using **zero-copy (sendfile)**.
+
+## 📏 Measure
+
 - CPU usage
 - Throughput (MB/s)
 - Latency
 
-#### 🎓 Learn
-- Kernel offloading
-- Why NGINX is efficient for static content
-- Difference between **CPU-bound** vs **kernel-assisted I/O**
+## 👀 Observe
+
+- CPU drop with sendfile ON
+- Memory differences
+- Similar throughput despite CPU differences
+
+## 🎓 Learn
+
+- Kernel offloading (zero-copy)
+- CPU vs kernel-assisted I/O
+- Why NGINX excels at static serving
 
 ---
 
-### 🔬 Experiment 2: Reverse Proxy (Fast Backend)
-**Setup**: NGINX → Spring Boot (fast response).
+# 🧪 Experiment 2 — Reverse Proxy (Fast Backend)
 
-#### 💡 Hypothesis
-NGINX adds minimal overhead in proxying.
+## 🎯 Objective
 
-#### 📏 Measure
-- Latency delta (direct vs via NGINX)
-- CPU usage
+Understand proxy overhead and system-level effects.
 
-#### 🎓 Learn
-- Proxy overhead baseline
-- Cost of request forwarding
+## ⚙️ Setup
+
+- Direct: Client → Backend
+- Proxy: Client → NGINX → Backend
+
+## 💡 Hypothesis
+
+NGINX adds minimal overhead but introduces **admission control**.
+
+## 📏 Measure
+
+- Latency
+- RPS
+- CPU (NGINX vs Backend)
+
+## 👀 Observe
+
+- Latency often improves via NGINX
+- RPS drops
+- Backend CPU stabilizes
+
+## 🎓 Learn
+
+- NGINX acts as **backpressure layer**
+- Throughput vs latency tradeoff
+- System stability > raw throughput
 
 ---
 
-## 🧪 Experiment Group 2 — Concurrency & Event Loop
+# 🧪 Experiment 3 — Single Worker vs Multiple Workers
 
-### 🔬 Experiment 3: Single Worker vs Multiple Workers
-**Setup**: Run with:
-1. One worker
-2. N workers (N = CPU cores)
+## 🎯 Objective
 
-#### 💡 Hypothesis
+Understand concurrency vs parallelism.
+
+## ⚙️ Setup
+
+Run NGINX with:
+
+- 1 worker
+- N workers (N = CPU cores)
+
+## 💡 Hypothesis
+
 Multiple workers reduce queueing delay and improve latency.
 
-#### 📏 Measure
-- p99 latency
+## 📏 Measure
+
+- p50 / p99 latency
 - CPU utilization per core
 
-#### 🎓 Learn
-- Concurrency vs Parallelism
-- Queueing delay visibility
+## 👀 Observe
+
+- Single worker → high p99 latency
+- Multiple workers → better latency distribution
+- CPU spreads across cores
+
+## 🎓 Learn
+
+- Event loop = concurrency
+- Workers = parallelism
+- Queueing delay is real
 
 ---
 
-### 🔬 Experiment 4: Connection Explosion
-**Setup**: Scale from 10k → 100k concurrent connections.
+# 🧪 Experiment 4 — Connection Explosion
 
-#### 💡 Hypothesis
-Few workers can handle massive concurrency due to non-blocking I/O.
+## 🎯 Objective
 
-#### 📏 Measure
+Test scalability of non-blocking architecture.
+
+## ⚙️ Setup
+
+- Gradually increase connections:
+    - 10k → 50k → 100k
+
+## 💡 Hypothesis
+
+Few workers can handle massive concurrency.
+
+## 📏 Measure
+
 - FD count
 - Memory usage
 - CPU
 
-#### 🎓 Learn
-- “Threads are **not required** for concurrency”
-- Real cost of connections
+## 👀 Observe
+
+- CPU remains low
+- Memory grows linearly
+- FD usage increases
+
+## 🎓 Learn
+
+- Threads are NOT required for concurrency
+- Idle connections still cost memory + FDs
+- Scalability is I/O-bound, not CPU-bound
 
 ---
 
-## 🧪 Experiment Group 3 — Queueing & Latency
+# 🧪 Experiment 5 — Sudden Traffic Spike (Queue Formation)
 
-### 🔬 Experiment 5: Sudden Traffic Spike
-**Setup**: Idle connections → sudden burst.
+## 🎯 Objective
 
-#### 💡 Hypothesis
-Latency spikes due to event loop queueing, not necessarily CPU saturation.
+Understand queueing behavior.
 
-#### 📏 Measure
-- Latency distribution (p50 vs p99)
-- CPU
+## ⚙️ Setup
 
-#### 🎓 Learn
-- Queueing delay is real
-- Tail latency behavior
+- Maintain idle connections
+- Suddenly send requests from all clients
 
----
+## 💡 Hypothesis
 
-### 🔬 Experiment 6: Artificial Worker Imbalance
-**Setup**: Skew traffic to a subset of connections.
+Latency spikes due to queue buildup, not CPU saturation.
 
-#### 💡 Hypothesis
-Some workers become overloaded while others stay idle.
+## 📏 Measure
 
-#### 📏 Measure
-- Latency variance
-- CPU utilization per worker
+- p50 vs p99 latency
+- CPU usage
 
-#### 🎓 Learn
-- Lack of dynamic load balancing
-- Worker-level bottlenecks
+## 👀 Observe
 
----
+- CPU may remain low
+- p99 latency spikes massively
 
-## 🧪 Experiment Group 4 — Blocking & CPU Effects
+## 🎓 Learn
 
-### 🔬 Experiment 7: Inject Blocking Operation
-**Setup**: Backend or NGINX (via Lua / config trick) introduces artificial delay.
-
-#### 💡 Hypothesis
-**Blocking stalls the entire worker.**
-
-#### 📏 Measure
-- Latency spike for **ALL** requests on that worker
-
-#### 🎓 Learn
-- Blast radius of blocking operations
+- Queueing delay dominates latency
+- Tail latency is critical
+- “Low CPU” ≠ “healthy system”
 
 ---
 
-### 🔬 Experiment 8: CPU-bound Backend
-**Setup**: Spring Boot performs intensive CPU work.
+# 🧪 Experiment 6 — Slow Backend (Backpressure Propagation)
 
-#### 💡 Hypothesis
-Throughput drops and latency increases despite low NGINX CPU.
+## 🎯 Objective
 
-#### 📏 Measure
-- Backend CPU vs NGINX CPU
-- Latency
+Understand how slowness propagates upstream.
 
-#### 🎓 Learn
-- Event loop ≠ CPU execution
-- Separation of concerns
+## ⚙️ Setup
 
----
+- Add artificial delay (e.g., 100ms) in backend
 
-## 🧪 Experiment Group 5 — Backpressure
+## 💡 Hypothesis
 
-### 🔬 Experiment 9: Slow Backend (100ms delay)
-**Setup**: Artificial delay in backend.
+Slow backend causes:
 
-#### 💡 Hypothesis
-Connections pile up → memory increases → latency increases.
+- Connection buildup
+- Increased latency
+- Memory growth
 
-#### 📏 Measure
+## 📏 Measure
+
 - Active connections
 - Memory usage
 - Latency
 
-#### 🎓 Learn
-- Backpressure propagation
-- Why slow upstream is dangerous
+## 👀 Observe
+
+- Requests pile up
+- Latency increases across system
+
+## 🎓 Learn
+
+- Backpressure flows backward
+- Upstream dictates system performance
 
 ---
 
-### 🔬 Experiment 10: Remove Limits
-**Setup**: Disable rate limits and buffers.
+# 🧪 Experiment 7 — Remove Backpressure Controls
 
-#### 💡 Hypothesis
-System becomes unstable and potentially crashes under heavy load.
+## 🎯 Objective
 
-#### 🎓 Learn
-- Importance of backpressure controls
+Understand failure behavior.
+
+## ⚙️ Setup
+
+- Disable limits (connections, buffers, rate limiting)
+
+## 💡 Hypothesis
+
+System becomes unstable under load.
+
+## 📏 Measure
+
+- Errors
+- Memory
+- Latency
+
+## 👀 Observe
+
+- Memory spikes
+- Errors increase
+- Possible crashes
+
+## 🎓 Learn
+
+- Load shedding is critical
+- Stability requires limits
 
 ---
 
-## 🧪 Experiment Group 6 — System Limits
+# 🧪 Experiment 8 — CPU-bound Backend
 
-### 🔬 Experiment 11: File Descriptor Limit
-**Setup**: Set a low `ulimit -n`.
+## 🎯 Objective
 
-#### 💡 Hypothesis
-NGINX fails before CPU is saturated.
+Understand CPU bottlenecks.
 
-#### 🎓 Learn
+## ⚙️ Setup
+
+- Backend performs CPU-heavy work
+
+## 💡 Hypothesis
+
+Latency increases despite low NGINX CPU.
+
+## 📏 Measure
+
+- Backend CPU vs NGINX CPU
+- Latency
+
+## 👀 Observe
+
+- Backend CPU saturates
+- NGINX remains idle
+- Latency increases
+
+## 🎓 Learn
+
+- Event loop ≠ compute engine
+- Separation of concerns
+
+---
+
+# 🧪 Experiment 9 — Worker Imbalance
+
+## 🎯 Objective
+
+Understand lack of dynamic load balancing.
+
+## ⚙️ Setup
+
+- Use uneven connection patterns
+- Long-lived connections on some workers
+
+## 💡 Hypothesis
+
+Some workers overload while others remain idle.
+
+## 📏 Measure
+
+- CPU per worker
+- Latency distribution
+
+## 👀 Observe
+
+- Uneven CPU usage
+- Latency spikes on overloaded worker
+
+## 🎓 Learn
+
+- Workers don’t rebalance existing connections
+- Load distribution is not perfect
+
+---
+
+# 🧪 Experiment 10 — File Descriptor Limit
+
+## 🎯 Objective
+
+Understand OS limits.
+
+## ⚙️ Setup
+
+- Reduce `ulimit -n`
+
+## 💡 Hypothesis
+
+NGINX fails before CPU saturation.
+
+## 📏 Measure
+
+- Errors
+- FD usage
+
+## 👀 Observe
+
+- Connection failures
+- System underutilized CPU
+
+## 🎓 Learn
+
 - OS limits > application limits
+- FD exhaustion is a real bottleneck
 
 ---
 
-### 🔬 Experiment 12: Kernel Queue Limits
-**Setup**: Reduce `somaxconn` at the kernel level.
+# 🧪 Experiment 11 — Kernel Queue Limits
 
-#### 💡 Hypothesis
-Connections are dropped during bursts despite NGINX capacity.
+## 🎯 Objective
 
-#### 🎓 Learn
-- Kernel-level bottlenecks
+Understand kernel bottlenecks.
+
+## ⚙️ Setup
+
+- Reduce `somaxconn`
+
+## 💡 Hypothesis
+
+Connections drop under burst load.
+
+## 📏 Measure
+
+- Connection errors
+- Latency
+
+## 👀 Observe
+
+- Drops during spikes
+
+## 🎓 Learn
+
+- Kernel is part of the system
+- Not all limits are visible in app layer
 
 ---
 
-## 🧪 Experiment Group 7 — Advanced Internals
+# 🧪 Experiment 12 — Keep-Alive Cost
 
-### 🔬 Experiment 13: Keep-Alive Cost
-**Setup**: Maintain many idle connections.
+## 🎯 Objective
 
-#### 💡 Hypothesis
-Idle connections consume significant memory and FDs.
+Understand cost of idle connections.
 
-#### 🎓 Learn
-- “Idle ≠ free”
+## ⚙️ Setup
+
+- Maintain large number of idle keep-alive connections
+
+## 💡 Hypothesis
+
+Idle connections consume resources.
+
+## 📏 Measure
+
+- Memory
+- FD usage
+
+## 👀 Observe
+
+- Memory increases with connections
+
+## 🎓 Learn
+
+- Idle ≠ free
+- Resource planning is critical
 
 ---
 
-### 🔬 Experiment 14: TLS Overhead
-**Setup**: Enable HTTPS.
+# 🧪 Experiment 13 — TLS Overhead
 
-#### 💡 Hypothesis
-CPU usage increases due to encryption/decryption overhead.
+## 🎯 Objective
 
-#### 🎓 Learn
-- CPU vs I/O trade-offs
+Measure encryption cost.
+
+## ⚙️ Setup
+
+- Enable HTTPS
+
+## 💡 Hypothesis
+
+CPU usage increases due to TLS.
+
+## 📏 Measure
+
+- CPU usage
+- Latency
+
+## 👀 Observe
+
+- Increased CPU
+- Slight latency increase
+
+## 🎓 Learn
+
+- CPU vs I/O tradeoff
+- TLS termination cost
+
+---
+
+# 🧪 Experiment 14 — Where Does the Queue Live?
+
+## 🎯 Objective
+
+Understand where queueing happens.
+
+## ⚙️ Setup
+
+Introduce slowdown at:
+
+1. Kernel (backlog)
+2. NGINX (limits)
+3. Backend (delay)
+
+## 💡 Hypothesis
+
+Queue location changes system behavior.
+
+## 📏 Measure
+
+- Latency
+- Errors
+- CPU
+
+## 👀 Observe
+
+- Different failure patterns
+
+## 🎓 Learn
+
+- Queue placement defines architecture
+- Same load, different outcomes
+
+---
+
+# 🧠 Final Mental Model
+
+> Performance issues are rarely about "speed" —  
+> they are about **where work waits**.
+
+- CPU-bound → compute problem
+- Queueing → latency problem
+- Limits → system problem
+
+👉 Always ask:
+
+**“Where is the bottleneck, and where is the queue?”**

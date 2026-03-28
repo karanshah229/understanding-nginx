@@ -12,15 +12,18 @@ The dominant bottleneck shifts with each order of magnitude:
 
 **Takeaway:** At each order of magnitude, the constraining layer changes. Profiling the wrong layer wastes effort.
 
-## 2. Concurrency ≠ Parallelism
+## 2. Concurrency ≠ Parallelism (Threads vs. FDs)
 
-NGINX held 94,637 concurrent connections using only ~100% CPU across its worker pool. Each connection costs a file descriptor (~2.3 KB RAM), not a thread or process.
+NGINX held 94,637 concurrent connections using only ~100% CPU across its worker pool. 
 
-- Baseline memory: 508 MiB (0 connections)
-- Peak memory: 723 MiB (94k connections, 94% of 768 MiB limit)
-- Delta: ~215 MiB for ~94k connections ≈ **2.3 KB/socket**
+- **Verified Observation:** The kernel thread count (LWP) remained **CONSTANT AT 7** (1 Master + 6 Workers) from 1,000 to 100,000 connections. 
+- **The Shift:** Each connection cost a **File Descriptor (~2.3 KB RAM)**, not a new thread. 
+- **Resource Footprint:** 
+    - Baseline memory: 508 MiB (0 connections)
+    - Peak memory: 723 MiB (94k connections)
+    - Delta: ~2.3 KB per socket.
 
-This is the core advantage of event-driven I/O: connection count scales with memory, not with CPU threads.
+This is the core advantage of event-driven I/O: connection count scales with memory (FDs), not with CPU scheduling (Threads).
 
 ## 3. Three Saturation Boundaries
 
@@ -36,7 +39,7 @@ High-concurrency failure is never a single-point event. Three independent limits
 
 Reaching 100k required two architectural shifts that changed what and how to monitor:
 
-- **Network:** Host-bound `localhost` testing was abandoned for a private Docker bridge, making host-level `netstat` irrelevant. Container-internal FD and connection counts became the source of truth.
+- **Network:** Host-bound `localhost` testing was abandoned for a private Docker bridge, making host-level `netstat` irrelevant. Container-internal FD, connection, and **thread counts** became the source of truth.
 - **Metrics:** At 1k, `docker stats` sufficed. At 100k, per-container resource ceilings, per-client error rates, and kernel-level port accounting were all required to diagnose failures.
 
 **Takeaway:** When the infrastructure changes to support scale, the monitoring plane must change with it.
