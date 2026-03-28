@@ -1,0 +1,47 @@
+services:
+  nginx:
+    build:
+      context: .
+      dockerfile: nginx/Dockerfile
+    container_name: nginx
+    networks:
+      - connection-net
+    cpus: 1
+    mem_limit: 768m
+    ulimits:
+      nofile:
+        soft: 200000
+        hard: 200000
+    sysctls:
+      net.core.somaxconn: 100000
+    ports:
+      - "8080:8080"
+
+  client-1: &client_template
+    build:
+      context: .
+      dockerfile: load-test/Dockerfile
+    networks:
+      - connection-net
+    depends_on:
+      - nginx
+    cpus: 1
+    mem_limit: 768m
+    ulimits:
+      nofile:
+        soft: 100000
+        hard: 100000
+    command: ["-c", "25000", "-d", "30", "http://nginx:8080/"]
+
+  client-2:
+    <<: *client_template
+
+  client-3:
+    <<: *client_template
+
+  client-4:
+    <<: *client_template
+
+networks:
+  connection-net:
+    driver: bridge

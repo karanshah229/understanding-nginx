@@ -241,18 +241,7 @@ Idle connections consume significant memory and FDs.
 
 ---
 
-### 🔬 Experiment 14: sendfile ON vs OFF
-**Setup**: Toggle `sendfile` directive in NGINX.
-
-#### 💡 Hypothesis
-CPU usage increases significantly without zero-copy optimization.
-
-#### 🎓 Learn
-- Kernel optimization impact
-
----
-
-### 🔬 Experiment 15: TLS Overhead
+### 🔬 Experiment 14: TLS Overhead
 **Setup**: Enable HTTPS.
 
 #### 💡 Hypothesis
