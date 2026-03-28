@@ -1,0 +1,20 @@
+awk '{sum+=$3; count++} END {print "Avg Queue Time:", sum/count}' parsed.txt
+Avg Queue Time: -0.000185559
+
+awk 'BEGIN{max=0} {if($3>max) max=$3} END{print "Max Queue Time:", max}' parsed.txt
+Max Queue Time: 0.001
+
+awk '{rt+=$1; q+=$3} END {print "Queue %:", (q/rt)*100}' parsed.txt
+Queue %: -0.00399765
+
+sort -k3 -n parsed.txt | awk '{
+  a[NR]=$3
+}
+END {
+  print "p50:", a[int(NR*0.5)]
+  print "p90:", a[int(NR*0.9)]
+  print "p99:", a[int(NR*0.99)]
+}'
+p50: 0
+p90: 0.001
+p99: 0.001
