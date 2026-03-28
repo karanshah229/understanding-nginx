@@ -1,39 +1,68 @@
-# Experiment 4: Connection Explosion (100k+ Scale)
+# 🧪 Experiment 4 — Operating Guide
 
-> [!IMPORTANT]
-> **Goal:** Prove NGINX scales connections via event loops (File Descriptors), not threads.
-> **Orchestration:** This experiment is managed via Docker Compose to automate multiple-client scaling.
+> [!NOTE]
+> For the core hypothesis and architectural goals, see [experiment.md](file:///Users/karan/projects/Personal_projects/understanding-nginx/phase-1/04-connection-explosion/experiment.md).
 
-## ⚙️ Orchestrated Setup
-1. **Host Limits:** `ulimit -n 200000`
-2. **Build and Launch:**
-   ```bash
-   # Build images and start the infrastructure (Nginx + 4 Clients)
-   docker compose up --build -d
-   ```
-3. **Monitor:** 
-   ```bash
-   # Track real-time FDs and Internal Connections
-   ./scripts/watch.sh
-   ```
+## 🏛️ Architecture
+- **Proxy**: NGINX (1 Master + 6 Workers).
+- **Network**: Private Docker bridge (`connection-net`).
+- **Clients**: 4 × Node.js `autocannon` containers.
 
----
+## ⚙️ Setup
 
-## 🚀 Scaling Strategy: Horizontal Clients
-The `compose.yml` launches **four** client containers, each handling **25,000 connections**. This distributes the TCP overhead and keeps the load generators responsive.
+### Prerequisites
+- Docker & Docker Compose
+- `ulimit -n` host-level configuration (recommended: 200k+).
 
-### Why 4 clients?
-A single `autocannon` process (Node.js) becomes saturated at ~50k connections, causing event loop lag. 4 containers solve this by:
-1. **Distributing Load:** Keeping each process under the event loop "lag line."
-2. **Expanding Port Capacity:** Each container gets a unique IP, giving a total capacity of **~262,000 ports**.
+### Directory Structure
+```text
+.
+├── compose.yml
+├── experiment.md
+├── README.md
+├── insights.md
+├── nginx/
+│   ├── nginx.conf
+│   └── Dockerfile
+├── load-test/
+│   └── Dockerfile
+├── observations/
+│   └── (Captured data logs)
+└── scripts/
+    ├── measure-fd.sh
+    ├── measure-threads.sh
+    └── watch.sh
+```
 
----
+## 🚀 Execution Guide
 
-## 🧪 Observations
-- **Internal FDs:** `watch.sh` tracks all NGINX process descriptors inside the container.
-- **Internal Connections:** Tracks the TCP stack status on the Docker bridge network.
-- **Expected Outcome:** FDs should scale 1:1 with connections. CPU should remain stable.
+### 1. Build and Start the Infrastructure
+```bash
+docker compose up --build -d nginx
+```
 
-## 🏁 Insights
-- **Threads ≠ Concurrency:** 100k connections ≈ handful of worker threads.
-- **The Three Ceilings:** Scaling identifies bottlenecks in the App (Nginx), Host (Kernel), and Client (Load Generator).
+### 2. Monitor Metrics (Target Terminal)
+Open a dedicated terminal and run:
+```bash
+chmod +x scripts/*.sh
+./scripts/watch.sh
+```
+
+### 3. Run the Scale Progression
+#### Step A: 1,000 Connections
+```bash
+docker compose run client-1 -c 1000 -d 30 http://nginx:8080/
+```
+
+#### Step B: 10,000 Connections
+```bash
+docker compose run client-1 -c 10000 -d 30 http://nginx:8080/
+```
+
+#### Step C: 100,000 Connections (Burst)
+```bash
+docker compose up client-1 client-2 client-3 client-4
+```
+
+## 📊 Observations
+See [insights.md](file:///Users/karan/projects/Personal_projects/understanding-nginx/phase-1/04-connection-explosion/insights.md) for a detailed breakdown of the 1k → 100k scaling performance.
