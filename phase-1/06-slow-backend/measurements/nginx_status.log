@@ -1,0 +1,205 @@
+--- 12:01:45 ---
+Active connections: 1 
+server accepts handled requests
+ 19 19 19 
+Reading: 0 Writing: 1 Waiting: 0 
+--- 12:01:46 ---
+Active connections: 12 
+server accepts handled requests
+ 32 32 43 
+Reading: 0 Writing: 10 Waiting: 2 
+--- 12:01:47 ---
+Active connections: 12 
+server accepts handled requests
+ 34 34 144 
+Reading: 0 Writing: 12 Waiting: 0 
+--- 12:01:48 ---
+Active connections: 12 
+server accepts handled requests
+ 36 36 245 
+Reading: 0 Writing: 11 Waiting: 1 
+--- 12:01:49 ---
+Active connections: 12 
+server accepts handled requests
+ 38 38 338 
+Reading: 0 Writing: 12 Waiting: 0 
+--- 12:01:50 ---
+Active connections: 12 
+server accepts handled requests
+ 40 40 440 
+Reading: 1 Writing: 11 Waiting: 0 
+--- 12:01:51 ---
+Active connections: 11 
+server accepts handled requests
+ 42 42 532 
+Reading: 0 Writing: 11 Waiting: 0 
+--- 12:01:52 ---
+Active connections: 11 
+server accepts handled requests
+ 44 44 634 
+Reading: 0 Writing: 11 Waiting: 0 
+--- 12:01:53 ---
+Active connections: 12 
+server accepts handled requests
+ 46 46 726 
+Reading: 0 Writing: 11 Waiting: 1 
+--- 12:01:55 ---
+Active connections: 12 
+server accepts handled requests
+ 48 48 828 
+Reading: 0 Writing: 11 Waiting: 1 
+--- 12:01:56 ---
+Active connections: 12 
+server accepts handled requests
+ 50 50 930 
+Reading: 0 Writing: 12 Waiting: 0 
+--- 12:01:57 ---
+Active connections: 201 
+server accepts handled requests
+ 252 252 1172 
+Reading: 0 Writing: 201 Waiting: 0 
+--- 12:01:58 ---
+Active connections: 202 
+server accepts handled requests
+ 254 254 1674 
+Reading: 0 Writing: 202 Waiting: 0 
+--- 12:01:59 ---
+Active connections: 201 
+server accepts handled requests
+ 256 256 2176 
+Reading: 0 Writing: 201 Waiting: 0 
+--- 12:02:00 ---
+Active connections: 202 
+server accepts handled requests
+ 258 258 2678 
+Reading: 0 Writing: 202 Waiting: 0 
+--- 12:02:01 ---
+Active connections: 201 
+server accepts handled requests
+ 260 260 3180 
+Reading: 0 Writing: 201 Waiting: 0 
+--- 12:02:02 ---
+Active connections: 201 
+server accepts handled requests
+ 261 261 3681 
+Reading: 0 Writing: 201 Waiting: 0 
+--- 12:02:03 ---
+Active connections: 202 
+server accepts handled requests
+ 264 264 4183 
+Reading: 0 Writing: 201 Waiting: 1 
+--- 12:02:04 ---
+Active connections: 202 
+server accepts handled requests
+ 266 266 4686 
+Reading: 1 Writing: 201 Waiting: 0 
+--- 12:02:05 ---
+Active connections: 202 
+server accepts handled requests
+ 268 268 5188 
+Reading: 1 Writing: 201 Waiting: 0 
+--- 12:02:06 ---
+Active connections: 202 
+server accepts handled requests
+ 270 270 5690 
+Reading: 0 Writing: 202 Waiting: 0 
+--- 12:02:07 ---
+Active connections: 202 
+server accepts handled requests
+ 272 272 6191 
+Reading: 0 Writing: 201 Waiting: 1 
+--- 12:02:08 ---
+Active connections: 202 
+server accepts handled requests
+ 274 274 6670 
+Reading: 0 Writing: 201 Waiting: 1 
+--- 12:02:09 ---
+Active connections: 202 
+server accepts handled requests
+ 276 276 7172 
+Reading: 0 Writing: 201 Waiting: 1 
+--- 12:02:10 ---
+Active connections: 202 
+server accepts handled requests
+ 278 278 7687 
+Reading: 0 Writing: 201 Waiting: 1 
+--- 12:02:11 ---
+Active connections: 202 
+server accepts handled requests
+ 280 280 8190 
+Reading: 0 Writing: 201 Waiting: 1 
+--- 12:02:12 ---
+Active connections: 2 
+server accepts handled requests
+ 282 282 8437 
+Reading: 0 Writing: 1 Waiting: 0 
+--- 12:02:13 ---
+Active connections: 1213 
+server accepts handled requests
+ 1495 1495 10050 
+Reading: 0 Writing: 1212 Waiting: 1 
+--- 12:02:14 ---
+Active connections: 1502 
+server accepts handled requests
+ 1786 1786 10867 
+Reading: 0 Writing: 1501 Waiting: 1 
+--- 12:02:15 ---
+Active connections: 1502 
+server accepts handled requests
+ 1788 1788 11369 
+Reading: 0 Writing: 1500 Waiting: 2 
+--- 12:02:16 ---
+Active connections: 1502 
+server accepts handled requests
+ 1790 1790 11875 
+Reading: 0 Writing: 1501 Waiting: 1 
+--- 12:02:17 ---
+Active connections: 1502 
+server accepts handled requests
+ 1792 1792 12377 
+Reading: 0 Writing: 1502 Waiting: 0 
+--- 12:02:18 ---
+Active connections: 1502 
+server accepts handled requests
+ 1794 1794 12879 
+Reading: 0 Writing: 1502 Waiting: 0 
+--- 12:02:19 ---
+Active connections: 1502 
+server accepts handled requests
+ 1796 1796 13380 
+Reading: 0 Writing: 1501 Waiting: 0 
+--- 12:02:20 ---
+Active connections: 1502 
+server accepts handled requests
+ 1798 1798 13903 
+Reading: 0 Writing: 1501 Waiting: 1 
+--- 12:02:21 ---
+Active connections: 1502 
+server accepts handled requests
+ 1800 1800 14406 
+Reading: 0 Writing: 1502 Waiting: 0 
+--- 12:02:22 ---
+Active connections: 1502 
+server accepts handled requests
+ 1802 1802 14908 
+Reading: 0 Writing: 1502 Waiting: 0 
+--- 12:02:23 ---
+Active connections: 1502 
+server accepts handled requests
+ 1804 1804 15410 
+Reading: 0 Writing: 1501 Waiting: 1 
+--- 12:02:24 ---
+Active connections: 1501 
+server accepts handled requests
+ 1806 1806 15934 
+Reading: 0 Writing: 1501 Waiting: 0 
+--- 12:02:25 ---
+Active connections: 1502 
+server accepts handled requests
+ 1808 1808 16436 
+Reading: 0 Writing: 1501 Waiting: 1 
+--- 12:02:27 ---
+Active connections: 1502 
+server accepts handled requests
+ 1810 1810 16938 
+Reading: 0 Writing: 1502 Waiting: 0 
