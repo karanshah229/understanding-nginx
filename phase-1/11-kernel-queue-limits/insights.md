@@ -9,7 +9,7 @@ The "System" is more than just your code and NGINX. The OS kernel acts as a sile
 ## 🔍 Key Observations
 
 ### 1. The Invisible Bottleneck
-In Experiment 10 (FD Limits), we saw NGINX erroring out with "Too many open files". This was **visible** in NGINX logs. In this experiment, the kernel's queue limit of **5** resulted in **silent drops**. We observed **16 SYNs dropped** in the first second of the test, but NGINX logs showed **0 errors**, reporting only successful `200 OK` responses.
+In Experiment 10 (FD Limits), we saw NGINX erroring out with "Too many open files". This was **visible** in NGINX logs. In this experiment, the kernel's queue limit of **5** resulted in **silent drops**. NGINX was completely unaware that more connections were attempting to connect; it only saw the 5 that made it into the queue. We observed **16 SYNs dropped** in the first second of the test, but NGINX logs showed **0 errors**, reporting only successful `200 OK` responses.
 
 ### 2. High Tail Latency (The TCP Retry Penalty)
 We observed a **Max Latency of ~4,904 ms**, while the average was only ~180 ms. This 4.9s delay is a classic signature of **TCP Exponential Backoff**. When the kernel drops a connection, the client waits and retries (1s, 2s, 4s...). This turns a minor queue overflow into a catastrophic performance outlier for the affected users.
@@ -36,7 +36,7 @@ To understand **where** the failure happens, we must distinguish between the Ker
 2.  **Accept Queue (Ready)**: Governed by `somaxconn`. This is the **holding area** for connections that have *finished* the handshake but haven't been picked up by NGINX yet.
 3.  **The `accept()` Call**: NGINX's event loop (`epoll`) wakes up when the Accept Queue is not empty. It calls `accept()` to remove a connection from the queue and assign it a File Descriptor.
 
-**The Failure Scenario**: If NGINX is busy or a massive burst of requests arrives, the **Accept Queue** fills up. Once it hits the `somaxconn` limit, the kernel starts dropping new connections. This happens **before NGINX even knows the connection exists**, which is why application-layer monitoring often fails to detect this bottleneck.
+**The Failure Scenario**: If NGINX is busy or a massive burst of requests arrives, the **Accept Queue** fills up. Once it hits the `somaxconn` limit, the kernel starts dropping new connections. **NGINX is blind to this**: it doesn't receive an error, it doesn't log a warning, and it doesn't even know a connection was attempted. This is why application-layer monitoring (RPS, Errors, Latency of successful requests) often fails to detect this bottleneck, creating a dangerous false sense of system health.
 
 ---
 
