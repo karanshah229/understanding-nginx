@@ -1,0 +1,30 @@
+services:
+    nginx:
+        container_name: nginx
+        build: ./nginx
+        ports:
+            - "8080:8080"
+        depends_on:
+            - backend
+        restart: always
+        cpus: 2
+        mem_limit: 256m
+        networks:
+            - imbalance-net
+
+    backend:
+        container_name: backend
+        build: ./backend
+        ports:
+            - "8081:8080"
+        # Cap backend CPU to 0.5 to ensure it saturates
+        # quickly even on powerful host machines.
+        cpus: 0.5
+        mem_limit: 512m
+        restart: always
+        networks:
+            - imbalance-net
+
+networks:
+    imbalance-net:
+        driver: bridge

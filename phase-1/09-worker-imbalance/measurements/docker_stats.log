@@ -1,0 +1,1681 @@
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     0.00%     5.504MiB / 256MiB   2.56kB / 1.14kB
+backend   0.04%     97MiB / 512MiB      2.18kB / 308B
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     0.00%     5.504MiB / 256MiB   2.56kB / 1.14kB [K
+backend   0.04%     97MiB / 512MiB      2.18kB / 308B [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     0.00%     5.504MiB / 256MiB   2.56kB / 1.14kB
+backend   0.04%     97MiB / 512MiB      2.18kB / 308B
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     0.00%     5.504MiB / 256MiB   2.56kB / 1.14kB [K
+backend   0.04%     97MiB / 512MiB      2.18kB / 308B [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     13.58%    5.797MiB / 256MiB   27.1MB / 26.7MB
+backend   50.93%    100.4MiB / 512MiB   203kB / 26.7MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     13.58%    5.797MiB / 256MiB   27.1MB / 26.7MB [K
+backend   50.93%    100.4MiB / 512MiB   203kB / 26.7MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     13.58%    5.797MiB / 256MiB   27.1MB / 26.7MB
+backend   50.93%    100.4MiB / 512MiB   203kB / 26.7MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     13.58%    5.797MiB / 256MiB   27.1MB / 26.7MB [K
+backend   50.93%    100.4MiB / 512MiB   203kB / 26.7MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     21.86%    10.12MiB / 256MiB   152MB / 123MB
+backend   45.22%    101.1MiB / 512MiB   1.07MB / 150MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     21.86%    10.12MiB / 256MiB   152MB / 123MB [K
+backend   45.22%    101.1MiB / 512MiB   1.07MB / 150MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     21.86%    10.12MiB / 256MiB   152MB / 123MB
+backend   45.22%    101.1MiB / 512MiB   1.07MB / 150MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     21.86%    10.12MiB / 256MiB   152MB / 123MB [K
+backend   45.22%    101.1MiB / 512MiB   1.07MB / 150MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.00%    10.91MiB / 256MiB   247MB / 225MB
+backend   21.05%    103.4MiB / 512MiB   1.74MB / 242MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.00%    10.91MiB / 256MiB   247MB / 225MB [K
+backend   21.05%    103.4MiB / 512MiB   1.74MB / 242MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.00%    10.91MiB / 256MiB   247MB / 225MB
+backend   21.05%    103.4MiB / 512MiB   1.74MB / 242MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.00%    10.91MiB / 256MiB   247MB / 225MB [K
+backend   21.05%    103.4MiB / 512MiB   1.74MB / 242MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.66%    9.398MiB / 256MiB   353MB / 329MB
+backend   25.14%    103.7MiB / 512MiB   2.53MB / 346MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.66%    9.398MiB / 256MiB   353MB / 329MB [K
+backend   25.14%    103.7MiB / 512MiB   2.53MB / 346MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.66%    9.398MiB / 256MiB   353MB / 329MB
+backend   25.14%    103.7MiB / 512MiB   2.53MB / 346MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.66%    9.398MiB / 256MiB   353MB / 329MB [K
+backend   25.14%    103.7MiB / 512MiB   2.53MB / 346MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.78%    9.445MiB / 256MiB   457MB / 440MB
+backend   24.10%    103.9MiB / 512MiB   3.12MB / 446MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.78%    9.445MiB / 256MiB   457MB / 440MB [K
+backend   24.10%    103.9MiB / 512MiB   3.12MB / 446MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.78%    9.445MiB / 256MiB   457MB / 440MB
+backend   24.10%    103.9MiB / 512MiB   3.12MB / 446MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.78%    9.445MiB / 256MiB   457MB / 440MB [K
+backend   24.10%    103.9MiB / 512MiB   3.12MB / 446MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     20.20%    10.65MiB / 256MiB   574MB / 545MB
+backend   34.31%    103.9MiB / 512MiB   4.07MB / 560MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     20.20%    10.65MiB / 256MiB   574MB / 545MB [K
+backend   34.31%    103.9MiB / 512MiB   4.07MB / 560MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     20.20%    10.65MiB / 256MiB   574MB / 545MB
+backend   34.31%    103.9MiB / 512MiB   4.07MB / 560MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     20.20%    10.65MiB / 256MiB   574MB / 545MB [K
+backend   34.31%    103.9MiB / 512MiB   4.07MB / 560MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     20.11%    11.53MiB / 256MiB   708MB / 656MB
+backend   26.73%    104MiB / 512MiB     5.15MB / 692MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     20.11%    11.53MiB / 256MiB   708MB / 656MB [K
+backend   26.73%    104MiB / 512MiB     5.15MB / 692MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     20.11%    11.53MiB / 256MiB   708MB / 656MB
+backend   26.73%    104MiB / 512MiB     5.15MB / 692MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     20.11%    11.53MiB / 256MiB   708MB / 656MB [K
+backend   26.73%    104MiB / 512MiB     5.15MB / 692MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.67%    11.04MiB / 256MiB   815MB / 765MB
+backend   23.12%    104.5MiB / 512MiB   5.98MB / 797MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.67%    11.04MiB / 256MiB   815MB / 765MB [K
+backend   23.12%    104.5MiB / 512MiB   5.98MB / 797MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.67%    11.04MiB / 256MiB   815MB / 765MB
+backend   23.12%    104.5MiB / 512MiB   5.98MB / 797MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.67%    11.04MiB / 256MiB   815MB / 765MB [K
+backend   23.12%    104.5MiB / 512MiB   5.98MB / 797MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.56%    11.37MiB / 256MiB   927MB / 877MB
+backend   23.74%    104.3MiB / 512MiB   6.84MB / 906MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.56%    11.37MiB / 256MiB   927MB / 877MB [K
+backend   23.74%    104.3MiB / 512MiB   6.84MB / 906MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.56%    11.37MiB / 256MiB   927MB / 877MB
+backend   23.74%    104.3MiB / 512MiB   6.84MB / 906MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.56%    11.37MiB / 256MiB   927MB / 877MB [K
+backend   23.74%    104.3MiB / 512MiB   6.84MB / 906MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     13.08%    6.023MiB / 256MiB   987MB / 959MB
+backend   30.15%    107.4MiB / 512MiB   7.25MB / 964MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     13.08%    6.023MiB / 256MiB   987MB / 959MB [K
+backend   30.15%    107.4MiB / 512MiB   7.25MB / 964MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     13.08%    6.023MiB / 256MiB   987MB / 959MB
+backend   30.15%    107.4MiB / 512MiB   7.25MB / 964MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     13.08%    6.023MiB / 256MiB   987MB / 959MB [K
+backend   30.15%    107.4MiB / 512MiB   7.25MB / 964MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.98%    6.039MiB / 256MiB   1.01GB / 978MB
+backend   48.50%    107.7MiB / 512MiB   7.31MB / 983MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.98%    6.039MiB / 256MiB   1.01GB / 978MB [K
+backend   48.50%    107.7MiB / 512MiB   7.31MB / 983MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.98%    6.039MiB / 256MiB   1.01GB / 978MB
+backend   48.50%    107.7MiB / 512MiB   7.31MB / 983MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.98%    6.039MiB / 256MiB   1.01GB / 978MB [K
+backend   48.50%    107.7MiB / 512MiB   7.31MB / 983MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     7.69%     6.168MiB / 256MiB   1.02GB / 993MB
+backend   52.74%    108.6MiB / 512MiB   7.39MB / 999MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     7.69%     6.168MiB / 256MiB   1.02GB / 993MB [K
+backend   52.74%    108.6MiB / 512MiB   7.39MB / 999MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     7.69%     6.168MiB / 256MiB   1.02GB / 993MB
+backend   52.74%    108.6MiB / 512MiB   7.39MB / 999MB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     7.69%     6.168MiB / 256MiB   1.02GB / 993MB [K
+backend   52.74%    108.6MiB / 512MiB   7.39MB / 999MB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     9.61%     6.477MiB / 256MiB   1.05GB / 1.02GB
+backend   49.08%    110.5MiB / 512MiB   7.47MB / 1.02GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     9.61%     6.477MiB / 256MiB   1.05GB / 1.02GB [K
+backend   49.08%    110.5MiB / 512MiB   7.47MB / 1.02GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     9.61%     6.477MiB / 256MiB   1.05GB / 1.02GB
+backend   49.08%    110.5MiB / 512MiB   7.47MB / 1.02GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     9.61%     6.477MiB / 256MiB   1.05GB / 1.02GB [K
+backend   49.08%    110.5MiB / 512MiB   7.47MB / 1.02GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     8.06%     6.035MiB / 256MiB   1.07GB / 1.04GB
+backend   50.99%    111.5MiB / 512MiB   7.57MB / 1.05GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     8.06%     6.035MiB / 256MiB   1.07GB / 1.04GB [K
+backend   50.99%    111.5MiB / 512MiB   7.57MB / 1.05GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     8.06%     6.035MiB / 256MiB   1.07GB / 1.04GB
+backend   50.99%    111.5MiB / 512MiB   7.57MB / 1.05GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     8.06%     6.035MiB / 256MiB   1.07GB / 1.04GB [K
+backend   50.99%    111.5MiB / 512MiB   7.57MB / 1.05GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     9.91%     6.195MiB / 256MiB   1.11GB / 1.08GB
+backend   50.87%    112.1MiB / 512MiB   7.74MB / 1.08GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     9.91%     6.195MiB / 256MiB   1.11GB / 1.08GB [K
+backend   50.87%    112.1MiB / 512MiB   7.74MB / 1.08GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     9.91%     6.195MiB / 256MiB   1.11GB / 1.08GB
+backend   50.87%    112.1MiB / 512MiB   7.74MB / 1.08GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     9.91%     6.195MiB / 256MiB   1.11GB / 1.08GB [K
+backend   50.87%    112.1MiB / 512MiB   7.74MB / 1.08GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     8.03%     6.273MiB / 256MiB   1.13GB / 1.1GB
+backend   49.75%    115.6MiB / 512MiB   7.84MB / 1.11GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     8.03%     6.273MiB / 256MiB   1.13GB / 1.1GB [K
+backend   49.75%    115.6MiB / 512MiB   7.84MB / 1.11GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     8.03%     6.273MiB / 256MiB   1.13GB / 1.1GB
+backend   49.75%    115.6MiB / 512MiB   7.84MB / 1.11GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     8.03%     6.273MiB / 256MiB   1.13GB / 1.1GB [K
+backend   49.75%    115.6MiB / 512MiB   7.84MB / 1.11GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     8.28%     6.035MiB / 256MiB   1.15GB / 1.12GB
+backend   50.82%    116MiB / 512MiB     7.9MB / 1.12GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     8.28%     6.035MiB / 256MiB   1.15GB / 1.12GB [K
+backend   50.82%    116MiB / 512MiB     7.9MB / 1.12GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     8.28%     6.035MiB / 256MiB   1.15GB / 1.12GB
+backend   50.82%    116MiB / 512MiB     7.9MB / 1.12GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     8.28%     6.035MiB / 256MiB   1.15GB / 1.12GB [K
+backend   50.82%    116MiB / 512MiB     7.9MB / 1.12GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     9.37%     6.285MiB / 256MiB   1.18GB / 1.15GB
+backend   49.96%    116.4MiB / 512MiB   8.04MB / 1.16GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     9.37%     6.285MiB / 256MiB   1.18GB / 1.15GB [K
+backend   49.96%    116.4MiB / 512MiB   8.04MB / 1.16GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     9.37%     6.285MiB / 256MiB   1.18GB / 1.15GB
+backend   49.96%    116.4MiB / 512MiB   8.04MB / 1.16GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     9.37%     6.285MiB / 256MiB   1.18GB / 1.15GB [K
+backend   49.96%    116.4MiB / 512MiB   8.04MB / 1.16GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     11.54%    7.879MiB / 256MiB   1.22GB / 1.19GB
+backend   51.48%    116.4MiB / 512MiB   8.2MB / 1.2GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     11.54%    7.879MiB / 256MiB   1.22GB / 1.19GB [K
+backend   51.48%    116.4MiB / 512MiB   8.2MB / 1.2GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     11.54%    7.879MiB / 256MiB   1.22GB / 1.19GB
+backend   51.48%    116.4MiB / 512MiB   8.2MB / 1.2GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     11.54%    7.879MiB / 256MiB   1.22GB / 1.19GB [K
+backend   51.48%    116.4MiB / 512MiB   8.2MB / 1.2GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.32%    9.723MiB / 256MiB   1.3GB / 1.27GB
+backend   51.56%    120.4MiB / 512MiB   8.6MB / 1.27GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.32%    9.723MiB / 256MiB   1.3GB / 1.27GB [K
+backend   51.56%    120.4MiB / 512MiB   8.6MB / 1.27GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.32%    9.723MiB / 256MiB   1.3GB / 1.27GB
+backend   51.56%    120.4MiB / 512MiB   8.6MB / 1.27GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.32%    9.723MiB / 256MiB   1.3GB / 1.27GB [K
+backend   51.56%    120.4MiB / 512MiB   8.6MB / 1.27GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     15.77%    8.793MiB / 256MiB   1.37GB / 1.34GB
+backend   52.17%    120.6MiB / 512MiB   8.93MB / 1.34GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     15.77%    8.793MiB / 256MiB   1.37GB / 1.34GB [K
+backend   52.17%    120.6MiB / 512MiB   8.93MB / 1.34GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     15.77%    8.793MiB / 256MiB   1.37GB / 1.34GB
+backend   52.17%    120.6MiB / 512MiB   8.93MB / 1.34GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     15.77%    8.793MiB / 256MiB   1.37GB / 1.34GB [K
+backend   52.17%    120.6MiB / 512MiB   8.93MB / 1.34GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.89%    10.43MiB / 256MiB   1.45GB / 1.41GB
+backend   50.96%    120.1MiB / 512MiB   9.25MB / 1.42GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.89%    10.43MiB / 256MiB   1.45GB / 1.41GB [K
+backend   50.96%    120.1MiB / 512MiB   9.25MB / 1.42GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.89%    10.43MiB / 256MiB   1.45GB / 1.41GB
+backend   50.96%    120.1MiB / 512MiB   9.25MB / 1.42GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.89%    10.43MiB / 256MiB   1.45GB / 1.41GB [K
+backend   50.96%    120.1MiB / 512MiB   9.25MB / 1.42GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.29%    10.32MiB / 256MiB   1.55GB / 1.5GB
+backend   50.23%    129.4MiB / 512MiB   9.67MB / 1.51GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.29%    10.32MiB / 256MiB   1.55GB / 1.5GB [K
+backend   50.23%    129.4MiB / 512MiB   9.67MB / 1.51GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.29%    10.32MiB / 256MiB   1.55GB / 1.5GB
+backend   50.23%    129.4MiB / 512MiB   9.67MB / 1.51GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.29%    10.32MiB / 256MiB   1.55GB / 1.5GB [K
+backend   50.23%    129.4MiB / 512MiB   9.67MB / 1.51GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.12%    7.254MiB / 256MiB   1.64GB / 1.59GB
+backend   51.60%    131.3MiB / 512MiB   10MB / 1.6GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.12%    7.254MiB / 256MiB   1.64GB / 1.59GB [K
+backend   51.60%    131.3MiB / 512MiB   10MB / 1.6GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.12%    7.254MiB / 256MiB   1.64GB / 1.59GB
+backend   51.60%    131.3MiB / 512MiB   10MB / 1.6GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.12%    7.254MiB / 256MiB   1.64GB / 1.59GB [K
+backend   51.60%    131.3MiB / 512MiB   10MB / 1.6GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.34%    6.961MiB / 256MiB   1.73GB / 1.68GB
+backend   51.01%    128MiB / 512MiB     10.4MB / 1.69GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.34%    6.961MiB / 256MiB   1.73GB / 1.68GB [K
+backend   51.01%    128MiB / 512MiB     10.4MB / 1.69GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.34%    6.961MiB / 256MiB   1.73GB / 1.68GB
+backend   51.01%    128MiB / 512MiB     10.4MB / 1.69GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.34%    6.961MiB / 256MiB   1.73GB / 1.68GB [K
+backend   51.01%    128MiB / 512MiB     10.4MB / 1.69GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     20.32%    7.555MiB / 256MiB   1.82GB / 1.77GB
+backend   51.15%    128.2MiB / 512MiB   10.9MB / 1.78GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     20.32%    7.555MiB / 256MiB   1.82GB / 1.77GB [K
+backend   51.15%    128.2MiB / 512MiB   10.9MB / 1.78GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     20.32%    7.555MiB / 256MiB   1.82GB / 1.77GB
+backend   51.15%    128.2MiB / 512MiB   10.9MB / 1.78GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     20.32%    7.555MiB / 256MiB   1.82GB / 1.77GB [K
+backend   51.15%    128.2MiB / 512MiB   10.9MB / 1.78GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.09%    6.406MiB / 256MiB   1.91GB / 1.86GB
+backend   50.39%    128.3MiB / 512MiB   11.5MB / 1.87GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.09%    6.406MiB / 256MiB   1.91GB / 1.86GB [K
+backend   50.39%    128.3MiB / 512MiB   11.5MB / 1.87GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.09%    6.406MiB / 256MiB   1.91GB / 1.86GB
+backend   50.39%    128.3MiB / 512MiB   11.5MB / 1.87GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.09%    6.406MiB / 256MiB   1.91GB / 1.86GB [K
+backend   50.39%    128.3MiB / 512MiB   11.5MB / 1.87GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.72%    8.066MiB / 256MiB   1.99GB / 1.93GB
+backend   51.10%    128.7MiB / 512MiB   11.9MB / 1.94GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.72%    8.066MiB / 256MiB   1.99GB / 1.93GB [K
+backend   51.10%    128.7MiB / 512MiB   11.9MB / 1.94GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.72%    8.066MiB / 256MiB   1.99GB / 1.93GB
+backend   51.10%    128.7MiB / 512MiB   11.9MB / 1.94GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.72%    8.066MiB / 256MiB   1.99GB / 1.93GB [K
+backend   51.10%    128.7MiB / 512MiB   11.9MB / 1.94GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     21.68%    7.234MiB / 256MiB   2.08GB / 2.03GB
+backend   50.80%    128.5MiB / 512MiB   12.3MB / 2.03GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     21.68%    7.234MiB / 256MiB   2.08GB / 2.03GB [K
+backend   50.80%    128.5MiB / 512MiB   12.3MB / 2.03GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     21.68%    7.234MiB / 256MiB   2.08GB / 2.03GB
+backend   50.80%    128.5MiB / 512MiB   12.3MB / 2.03GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     21.68%    7.234MiB / 256MiB   2.08GB / 2.03GB [K
+backend   50.80%    128.5MiB / 512MiB   12.3MB / 2.03GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     24.03%    10.47MiB / 256MiB   2.18GB / 2.12GB
+backend   50.64%    129.2MiB / 512MiB   12.7MB / 2.13GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     24.03%    10.47MiB / 256MiB   2.18GB / 2.12GB [K
+backend   50.64%    129.2MiB / 512MiB   12.7MB / 2.13GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     24.03%    10.47MiB / 256MiB   2.18GB / 2.12GB
+backend   50.64%    129.2MiB / 512MiB   12.7MB / 2.13GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     24.03%    10.47MiB / 256MiB   2.18GB / 2.12GB [K
+backend   50.64%    129.2MiB / 512MiB   12.7MB / 2.13GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     21.07%    10.02MiB / 256MiB   2.27GB / 2.21GB
+backend   51.24%    131.2MiB / 512MiB   13.2MB / 2.22GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     21.07%    10.02MiB / 256MiB   2.27GB / 2.21GB [K
+backend   51.24%    131.2MiB / 512MiB   13.2MB / 2.22GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     21.07%    10.02MiB / 256MiB   2.27GB / 2.21GB
+backend   51.24%    131.2MiB / 512MiB   13.2MB / 2.22GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     21.07%    10.02MiB / 256MiB   2.27GB / 2.21GB [K
+backend   51.24%    131.2MiB / 512MiB   13.2MB / 2.22GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     22.76%    6.57MiB / 256MiB    2.36GB / 2.3GB
+backend   51.23%    132MiB / 512MiB     13.7MB / 2.31GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     22.76%    6.57MiB / 256MiB    2.36GB / 2.3GB [K
+backend   51.23%    132MiB / 512MiB     13.7MB / 2.31GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     22.76%    6.57MiB / 256MiB    2.36GB / 2.3GB
+backend   51.23%    132MiB / 512MiB     13.7MB / 2.31GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     22.76%    6.57MiB / 256MiB    2.36GB / 2.3GB [K
+backend   51.23%    132MiB / 512MiB     13.7MB / 2.31GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     24.49%    6.918MiB / 256MiB   2.46GB / 2.4GB
+backend   50.82%    131.9MiB / 512MiB   14.4MB / 2.41GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     24.49%    6.918MiB / 256MiB   2.46GB / 2.4GB [K
+backend   50.82%    131.9MiB / 512MiB   14.4MB / 2.41GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     24.49%    6.918MiB / 256MiB   2.46GB / 2.4GB
+backend   50.82%    131.9MiB / 512MiB   14.4MB / 2.41GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     24.49%    6.918MiB / 256MiB   2.46GB / 2.4GB [K
+backend   50.82%    131.9MiB / 512MiB   14.4MB / 2.41GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     40.26%    9.789MiB / 256MiB   2.53GB / 2.46GB
+backend   52.29%    131.9MiB / 512MiB   14.7MB / 2.48GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     40.26%    9.789MiB / 256MiB   2.53GB / 2.46GB [K
+backend   52.29%    131.9MiB / 512MiB   14.7MB / 2.48GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     40.26%    9.789MiB / 256MiB   2.53GB / 2.46GB
+backend   52.29%    131.9MiB / 512MiB   14.7MB / 2.48GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     40.26%    9.789MiB / 256MiB   2.53GB / 2.46GB [K
+backend   52.29%    131.9MiB / 512MiB   14.7MB / 2.48GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     25.53%    7.188MiB / 256MiB   2.62GB / 2.55GB
+backend   50.43%    132.1MiB / 512MiB   15.4MB / 2.56GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     25.53%    7.188MiB / 256MiB   2.62GB / 2.55GB [K
+backend   50.43%    132.1MiB / 512MiB   15.4MB / 2.56GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     25.53%    7.188MiB / 256MiB   2.62GB / 2.55GB
+backend   50.43%    132.1MiB / 512MiB   15.4MB / 2.56GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     25.53%    7.188MiB / 256MiB   2.62GB / 2.55GB [K
+backend   50.43%    132.1MiB / 512MiB   15.4MB / 2.56GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     31.07%    11.24MiB / 256MiB   2.72GB / 2.64GB
+backend   51.18%    131.7MiB / 512MiB   16.3MB / 2.65GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     31.07%    11.24MiB / 256MiB   2.72GB / 2.64GB [K
+backend   51.18%    131.7MiB / 512MiB   16.3MB / 2.65GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     31.07%    11.24MiB / 256MiB   2.72GB / 2.64GB
+backend   51.18%    131.7MiB / 512MiB   16.3MB / 2.65GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     31.07%    11.24MiB / 256MiB   2.72GB / 2.64GB [K
+backend   51.18%    131.7MiB / 512MiB   16.3MB / 2.65GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     31.90%    9.469MiB / 256MiB   2.81GB / 2.73GB
+backend   51.55%    132.1MiB / 512MiB   17.2MB / 2.75GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     31.90%    9.469MiB / 256MiB   2.81GB / 2.73GB [K
+backend   51.55%    132.1MiB / 512MiB   17.2MB / 2.75GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     31.90%    9.469MiB / 256MiB   2.81GB / 2.73GB
+backend   51.55%    132.1MiB / 512MiB   17.2MB / 2.75GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     31.90%    9.469MiB / 256MiB   2.81GB / 2.73GB [K
+backend   51.55%    132.1MiB / 512MiB   17.2MB / 2.75GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     32.55%    6.594MiB / 256MiB   2.91GB / 2.84GB
+backend   51.80%    131.9MiB / 512MiB   18.3MB / 2.84GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     32.55%    6.594MiB / 256MiB   2.91GB / 2.84GB [K
+backend   51.80%    131.9MiB / 512MiB   18.3MB / 2.84GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     32.55%    6.594MiB / 256MiB   2.91GB / 2.84GB
+backend   51.80%    131.9MiB / 512MiB   18.3MB / 2.84GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     32.55%    6.594MiB / 256MiB   2.91GB / 2.84GB [K
+backend   51.80%    131.9MiB / 512MiB   18.3MB / 2.84GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     32.20%    8.848MiB / 256MiB   3.03GB / 2.94GB
+backend   51.58%    132.1MiB / 512MiB   19.4MB / 2.95GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     32.20%    8.848MiB / 256MiB   3.03GB / 2.94GB [K
+backend   51.58%    132.1MiB / 512MiB   19.4MB / 2.95GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     32.20%    8.848MiB / 256MiB   3.03GB / 2.94GB
+backend   51.58%    132.1MiB / 512MiB   19.4MB / 2.95GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     32.20%    8.848MiB / 256MiB   3.03GB / 2.94GB [K
+backend   51.58%    132.1MiB / 512MiB   19.4MB / 2.95GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     33.88%    10.92MiB / 256MiB   3.15GB / 3.05GB
+backend   53.79%    131.9MiB / 512MiB   20.5MB / 3.07GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     33.88%    10.92MiB / 256MiB   3.15GB / 3.05GB [K
+backend   53.79%    131.9MiB / 512MiB   20.5MB / 3.07GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     33.88%    10.92MiB / 256MiB   3.15GB / 3.05GB
+backend   53.79%    131.9MiB / 512MiB   20.5MB / 3.07GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     33.88%    10.92MiB / 256MiB   3.15GB / 3.05GB [K
+backend   53.79%    131.9MiB / 512MiB   20.5MB / 3.07GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     33.69%    12.12MiB / 256MiB   3.27GB / 3.16GB
+backend   53.20%    131.9MiB / 512MiB   21.7MB / 3.19GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     33.69%    12.12MiB / 256MiB   3.27GB / 3.16GB [K
+backend   53.20%    131.9MiB / 512MiB   21.7MB / 3.19GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     33.69%    12.12MiB / 256MiB   3.27GB / 3.16GB
+backend   53.20%    131.9MiB / 512MiB   21.7MB / 3.19GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     33.69%    12.12MiB / 256MiB   3.27GB / 3.16GB [K
+backend   53.20%    131.9MiB / 512MiB   21.7MB / 3.19GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     31.17%    6.469MiB / 256MiB   3.35GB / 3.25GB
+backend   50.86%    132.7MiB / 512MiB   22.7MB / 3.26GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     31.17%    6.469MiB / 256MiB   3.35GB / 3.25GB [K
+backend   50.86%    132.7MiB / 512MiB   22.7MB / 3.26GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     31.17%    6.469MiB / 256MiB   3.35GB / 3.25GB
+backend   50.86%    132.7MiB / 512MiB   22.7MB / 3.26GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     31.17%    6.469MiB / 256MiB   3.35GB / 3.25GB [K
+backend   50.86%    132.7MiB / 512MiB   22.7MB / 3.26GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     32.70%    9.965MiB / 256MiB   3.46GB / 3.36GB
+backend   52.09%    132.1MiB / 512MiB   23.8MB / 3.37GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     32.70%    9.965MiB / 256MiB   3.46GB / 3.36GB [K
+backend   52.09%    132.1MiB / 512MiB   23.8MB / 3.37GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     32.70%    9.965MiB / 256MiB   3.46GB / 3.36GB
+backend   52.09%    132.1MiB / 512MiB   23.8MB / 3.37GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     32.70%    9.965MiB / 256MiB   3.46GB / 3.36GB [K
+backend   52.09%    132.1MiB / 512MiB   23.8MB / 3.37GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     29.92%    9.59MiB / 256MiB    3.53GB / 3.42GB
+backend   53.70%    132.1MiB / 512MiB   24.7MB / 3.44GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     29.92%    9.59MiB / 256MiB    3.53GB / 3.42GB [K
+backend   53.70%    132.1MiB / 512MiB   24.7MB / 3.44GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     29.92%    9.59MiB / 256MiB    3.53GB / 3.42GB
+backend   53.70%    132.1MiB / 512MiB   24.7MB / 3.44GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     29.92%    9.59MiB / 256MiB    3.53GB / 3.42GB [K
+backend   53.70%    132.1MiB / 512MiB   24.7MB / 3.44GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     32.32%    10.26MiB / 256MiB   3.62GB / 3.51GB
+backend   50.11%    132.3MiB / 512MiB   25.4MB / 3.53GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     32.32%    10.26MiB / 256MiB   3.62GB / 3.51GB [K
+backend   50.11%    132.3MiB / 512MiB   25.4MB / 3.53GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     32.32%    10.26MiB / 256MiB   3.62GB / 3.51GB
+backend   50.11%    132.3MiB / 512MiB   25.4MB / 3.53GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     32.32%    10.26MiB / 256MiB   3.62GB / 3.51GB [K
+backend   50.11%    132.3MiB / 512MiB   25.4MB / 3.53GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     41.84%    7.934MiB / 256MiB   3.68GB / 3.57GB
+backend   53.57%    132.1MiB / 512MiB   26MB / 3.58GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     41.84%    7.934MiB / 256MiB   3.68GB / 3.57GB [K
+backend   53.57%    132.1MiB / 512MiB   26MB / 3.58GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     41.84%    7.934MiB / 256MiB   3.68GB / 3.57GB
+backend   53.57%    132.1MiB / 512MiB   26MB / 3.58GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     41.84%    7.934MiB / 256MiB   3.68GB / 3.57GB [K
+backend   53.57%    132.1MiB / 512MiB   26MB / 3.58GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     29.95%    6.758MiB / 256MiB   3.75GB / 3.64GB
+backend   51.32%    132.1MiB / 512MiB   26.8MB / 3.65GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     29.95%    6.758MiB / 256MiB   3.75GB / 3.64GB [K
+backend   51.32%    132.1MiB / 512MiB   26.8MB / 3.65GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     29.95%    6.758MiB / 256MiB   3.75GB / 3.64GB
+backend   51.32%    132.1MiB / 512MiB   26.8MB / 3.65GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     29.95%    6.758MiB / 256MiB   3.75GB / 3.64GB [K
+backend   51.32%    132.1MiB / 512MiB   26.8MB / 3.65GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     31.42%    10.82MiB / 256MiB   3.84GB / 3.72GB
+backend   50.24%    132.1MiB / 512MiB   27.5MB / 3.74GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     31.42%    10.82MiB / 256MiB   3.84GB / 3.72GB [K
+backend   50.24%    132.1MiB / 512MiB   27.5MB / 3.74GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     31.42%    10.82MiB / 256MiB   3.84GB / 3.72GB
+backend   50.24%    132.1MiB / 512MiB   27.5MB / 3.74GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     31.42%    10.82MiB / 256MiB   3.84GB / 3.72GB [K
+backend   50.24%    132.1MiB / 512MiB   27.5MB / 3.74GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     32.75%    11.62MiB / 256MiB   3.95GB / 3.82GB
+backend   52.08%    132.1MiB / 512MiB   28.6MB / 3.84GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     32.75%    11.62MiB / 256MiB   3.95GB / 3.82GB [K
+backend   52.08%    132.1MiB / 512MiB   28.6MB / 3.84GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     32.75%    11.62MiB / 256MiB   3.95GB / 3.82GB
+backend   52.08%    132.1MiB / 512MiB   28.6MB / 3.84GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     32.75%    11.62MiB / 256MiB   3.95GB / 3.82GB [K
+backend   52.08%    132.1MiB / 512MiB   28.6MB / 3.84GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     27.47%    10.74MiB / 256MiB   4.07GB / 3.92GB
+backend   42.11%    132.1MiB / 512MiB   29.7MB / 3.96GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     27.47%    10.74MiB / 256MiB   4.07GB / 3.92GB [K
+backend   42.11%    132.1MiB / 512MiB   29.7MB / 3.96GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     27.47%    10.74MiB / 256MiB   4.07GB / 3.92GB
+backend   42.11%    132.1MiB / 512MiB   29.7MB / 3.96GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     27.47%    10.74MiB / 256MiB   4.07GB / 3.92GB [K
+backend   42.11%    132.1MiB / 512MiB   29.7MB / 3.96GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.58%    11.57MiB / 256MiB   4.18GB / 4.03GB
+backend   20.59%    132.1MiB / 512MiB   30.5MB / 4.07GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.58%    11.57MiB / 256MiB   4.18GB / 4.03GB [K
+backend   20.59%    132.1MiB / 512MiB   30.5MB / 4.07GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.58%    11.57MiB / 256MiB   4.18GB / 4.03GB
+backend   20.59%    132.1MiB / 512MiB   30.5MB / 4.07GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.58%    11.57MiB / 256MiB   4.18GB / 4.03GB [K
+backend   20.59%    132.1MiB / 512MiB   30.5MB / 4.07GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.31%    10.6MiB / 256MiB    4.29GB / 4.14GB
+backend   20.17%    132MiB / 512MiB     31.4MB / 4.17GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.31%    10.6MiB / 256MiB    4.29GB / 4.14GB [K
+backend   20.17%    132MiB / 512MiB     31.4MB / 4.17GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.31%    10.6MiB / 256MiB    4.29GB / 4.14GB
+backend   20.17%    132MiB / 512MiB     31.4MB / 4.17GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.31%    10.6MiB / 256MiB    4.29GB / 4.14GB [K
+backend   20.17%    132MiB / 512MiB     31.4MB / 4.17GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.41%    10.99MiB / 256MiB   4.4GB / 4.25GB
+backend   20.22%    132MiB / 512MiB     32.2MB / 4.28GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.41%    10.99MiB / 256MiB   4.4GB / 4.25GB [K
+backend   20.22%    132MiB / 512MiB     32.2MB / 4.28GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.41%    10.99MiB / 256MiB   4.4GB / 4.25GB
+backend   20.22%    132MiB / 512MiB     32.2MB / 4.28GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.41%    10.99MiB / 256MiB   4.4GB / 4.25GB [K
+backend   20.22%    132MiB / 512MiB     32.2MB / 4.28GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.51%    12.32MiB / 256MiB   4.51GB / 4.36GB
+backend   21.29%    132MiB / 512MiB     33MB / 4.39GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.51%    12.32MiB / 256MiB   4.51GB / 4.36GB [K
+backend   21.29%    132MiB / 512MiB     33MB / 4.39GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.51%    12.32MiB / 256MiB   4.51GB / 4.36GB
+backend   21.29%    132MiB / 512MiB     33MB / 4.39GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.51%    12.32MiB / 256MiB   4.51GB / 4.36GB [K
+backend   21.29%    132MiB / 512MiB     33MB / 4.39GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     15.41%    10.86MiB / 256MiB   4.61GB / 4.47GB
+backend   20.56%    131.9MiB / 512MiB   33.8MB / 4.49GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     15.41%    10.86MiB / 256MiB   4.61GB / 4.47GB [K
+backend   20.56%    131.9MiB / 512MiB   33.8MB / 4.49GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     15.41%    10.86MiB / 256MiB   4.61GB / 4.47GB
+backend   20.56%    131.9MiB / 512MiB   33.8MB / 4.49GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     15.41%    10.86MiB / 256MiB   4.61GB / 4.47GB [K
+backend   20.56%    131.9MiB / 512MiB   33.8MB / 4.49GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.66%    11.96MiB / 256MiB   4.72GB / 4.58GB
+backend   20.55%    132.1MiB / 512MiB   34.7MB / 4.6GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.66%    11.96MiB / 256MiB   4.72GB / 4.58GB [K
+backend   20.55%    132.1MiB / 512MiB   34.7MB / 4.6GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.66%    11.96MiB / 256MiB   4.72GB / 4.58GB
+backend   20.55%    132.1MiB / 512MiB   34.7MB / 4.6GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.66%    11.96MiB / 256MiB   4.72GB / 4.58GB [K
+backend   20.55%    132.1MiB / 512MiB   34.7MB / 4.6GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.13%    10.93MiB / 256MiB   4.83GB / 4.69GB
+backend   21.49%    132.1MiB / 512MiB   35.5MB / 4.71GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.13%    10.93MiB / 256MiB   4.83GB / 4.69GB [K
+backend   21.49%    132.1MiB / 512MiB   35.5MB / 4.71GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.13%    10.93MiB / 256MiB   4.83GB / 4.69GB
+backend   21.49%    132.1MiB / 512MiB   35.5MB / 4.71GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.13%    10.93MiB / 256MiB   4.83GB / 4.69GB [K
+backend   21.49%    132.1MiB / 512MiB   35.5MB / 4.71GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.85%    8.629MiB / 256MiB   4.94GB / 4.8GB
+backend   20.60%    131.9MiB / 512MiB   36.3MB / 4.81GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.85%    8.629MiB / 256MiB   4.94GB / 4.8GB [K
+backend   20.60%    131.9MiB / 512MiB   36.3MB / 4.81GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.85%    8.629MiB / 256MiB   4.94GB / 4.8GB
+backend   20.60%    131.9MiB / 512MiB   36.3MB / 4.81GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.85%    8.629MiB / 256MiB   4.94GB / 4.8GB [K
+backend   20.60%    131.9MiB / 512MiB   36.3MB / 4.81GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.32%    9.078MiB / 256MiB   5.05GB / 4.9GB
+backend   23.03%    131.9MiB / 512MiB   37.2MB / 4.92GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.32%    9.078MiB / 256MiB   5.05GB / 4.9GB [K
+backend   23.03%    131.9MiB / 512MiB   37.2MB / 4.92GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.32%    9.078MiB / 256MiB   5.05GB / 4.9GB
+backend   23.03%    131.9MiB / 512MiB   37.2MB / 4.92GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.32%    9.078MiB / 256MiB   5.05GB / 4.9GB [K
+backend   23.03%    131.9MiB / 512MiB   37.2MB / 4.92GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.50%    8.711MiB / 256MiB   5.16GB / 5.01GB
+backend   21.34%    131.9MiB / 512MiB   38MB / 5.03GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.50%    8.711MiB / 256MiB   5.16GB / 5.01GB [K
+backend   21.34%    131.9MiB / 512MiB   38MB / 5.03GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.50%    8.711MiB / 256MiB   5.16GB / 5.01GB
+backend   21.34%    131.9MiB / 512MiB   38MB / 5.03GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.50%    8.711MiB / 256MiB   5.16GB / 5.01GB [K
+backend   21.34%    131.9MiB / 512MiB   38MB / 5.03GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.48%    11.37MiB / 256MiB   5.27GB / 5.1GB
+backend   29.42%    131.9MiB / 512MiB   38.8MB / 5.13GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.48%    11.37MiB / 256MiB   5.27GB / 5.1GB [K
+backend   29.42%    131.9MiB / 512MiB   38.8MB / 5.13GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.48%    11.37MiB / 256MiB   5.27GB / 5.1GB
+backend   29.42%    131.9MiB / 512MiB   38.8MB / 5.13GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.48%    11.37MiB / 256MiB   5.27GB / 5.1GB [K
+backend   29.42%    131.9MiB / 512MiB   38.8MB / 5.13GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     21.49%    10.79MiB / 256MiB   5.38GB / 5.19GB
+backend   18.84%    131.9MiB / 512MiB   39.3MB / 5.24GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     21.49%    10.79MiB / 256MiB   5.38GB / 5.19GB [K
+backend   18.84%    131.9MiB / 512MiB   39.3MB / 5.24GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     21.49%    10.79MiB / 256MiB   5.38GB / 5.19GB
+backend   18.84%    131.9MiB / 512MiB   39.3MB / 5.24GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     21.49%    10.79MiB / 256MiB   5.38GB / 5.19GB [K
+backend   18.84%    131.9MiB / 512MiB   39.3MB / 5.24GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.18%    10.51MiB / 256MiB   5.49GB / 5.3GB
+backend   21.27%    131.9MiB / 512MiB   39.9MB / 5.35GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.18%    10.51MiB / 256MiB   5.49GB / 5.3GB [K
+backend   21.27%    131.9MiB / 512MiB   39.9MB / 5.35GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.18%    10.51MiB / 256MiB   5.49GB / 5.3GB
+backend   21.27%    131.9MiB / 512MiB   39.9MB / 5.35GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.18%    10.51MiB / 256MiB   5.49GB / 5.3GB [K
+backend   21.27%    131.9MiB / 512MiB   39.9MB / 5.35GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.59%    11.46MiB / 256MiB   5.6GB / 5.4GB
+backend   22.45%    131.9MiB / 512MiB   40.7MB / 5.45GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.59%    11.46MiB / 256MiB   5.6GB / 5.4GB [K
+backend   22.45%    131.9MiB / 512MiB   40.7MB / 5.45GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.59%    11.46MiB / 256MiB   5.6GB / 5.4GB
+backend   22.45%    131.9MiB / 512MiB   40.7MB / 5.45GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.59%    11.46MiB / 256MiB   5.6GB / 5.4GB [K
+backend   22.45%    131.9MiB / 512MiB   40.7MB / 5.45GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     15.92%    11.21MiB / 256MiB   5.71GB / 5.51GB
+backend   20.19%    131.9MiB / 512MiB   41.6MB / 5.56GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     15.92%    11.21MiB / 256MiB   5.71GB / 5.51GB [K
+backend   20.19%    131.9MiB / 512MiB   41.6MB / 5.56GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     15.92%    11.21MiB / 256MiB   5.71GB / 5.51GB
+backend   20.19%    131.9MiB / 512MiB   41.6MB / 5.56GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     15.92%    11.21MiB / 256MiB   5.71GB / 5.51GB [K
+backend   20.19%    131.9MiB / 512MiB   41.6MB / 5.56GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.06%    10.73MiB / 256MiB   5.82GB / 5.61GB
+backend   25.73%    131.9MiB / 512MiB   42.5MB / 5.67GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.06%    10.73MiB / 256MiB   5.82GB / 5.61GB [K
+backend   25.73%    131.9MiB / 512MiB   42.5MB / 5.67GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.06%    10.73MiB / 256MiB   5.82GB / 5.61GB
+backend   25.73%    131.9MiB / 512MiB   42.5MB / 5.67GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.06%    10.73MiB / 256MiB   5.82GB / 5.61GB [K
+backend   25.73%    131.9MiB / 512MiB   42.5MB / 5.67GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.66%    11.56MiB / 256MiB   5.93GB / 5.72GB
+backend   21.02%    131.9MiB / 512MiB   43.3MB / 5.77GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.66%    11.56MiB / 256MiB   5.93GB / 5.72GB [K
+backend   21.02%    131.9MiB / 512MiB   43.3MB / 5.77GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.66%    11.56MiB / 256MiB   5.93GB / 5.72GB
+backend   21.02%    131.9MiB / 512MiB   43.3MB / 5.77GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.66%    11.56MiB / 256MiB   5.93GB / 5.72GB [K
+backend   21.02%    131.9MiB / 512MiB   43.3MB / 5.77GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.49%    11.47MiB / 256MiB   6.04GB / 5.83GB
+backend   21.18%    131.9MiB / 512MiB   44.1MB / 5.88GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.49%    11.47MiB / 256MiB   6.04GB / 5.83GB [K
+backend   21.18%    131.9MiB / 512MiB   44.1MB / 5.88GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.49%    11.47MiB / 256MiB   6.04GB / 5.83GB
+backend   21.18%    131.9MiB / 512MiB   44.1MB / 5.88GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.49%    11.47MiB / 256MiB   6.04GB / 5.83GB [K
+backend   21.18%    131.9MiB / 512MiB   44.1MB / 5.88GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.35%    11.64MiB / 256MiB   6.14GB / 5.94GB
+backend   20.67%    131.9MiB / 512MiB   45MB / 5.99GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.35%    11.64MiB / 256MiB   6.14GB / 5.94GB [K
+backend   20.67%    131.9MiB / 512MiB   45MB / 5.99GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.35%    11.64MiB / 256MiB   6.14GB / 5.94GB
+backend   20.67%    131.9MiB / 512MiB   45MB / 5.99GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.35%    11.64MiB / 256MiB   6.14GB / 5.94GB [K
+backend   20.67%    131.9MiB / 512MiB   45MB / 5.99GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     15.85%    10.61MiB / 256MiB   6.25GB / 6.05GB
+backend   19.97%    131.9MiB / 512MiB   45.8MB / 6.09GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     15.85%    10.61MiB / 256MiB   6.25GB / 6.05GB [K
+backend   19.97%    131.9MiB / 512MiB   45.8MB / 6.09GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     15.85%    10.61MiB / 256MiB   6.25GB / 6.05GB
+backend   19.97%    131.9MiB / 512MiB   45.8MB / 6.09GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     15.85%    10.61MiB / 256MiB   6.25GB / 6.05GB [K
+backend   19.97%    131.9MiB / 512MiB   45.8MB / 6.09GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     15.90%    12.2MiB / 256MiB    6.36GB / 6.16GB
+backend   20.67%    131.9MiB / 512MiB   46.7MB / 6.2GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     15.90%    12.2MiB / 256MiB    6.36GB / 6.16GB [K
+backend   20.67%    131.9MiB / 512MiB   46.7MB / 6.2GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     15.90%    12.2MiB / 256MiB    6.36GB / 6.16GB
+backend   20.67%    131.9MiB / 512MiB   46.7MB / 6.2GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     15.90%    12.2MiB / 256MiB    6.36GB / 6.16GB [K
+backend   20.67%    131.9MiB / 512MiB   46.7MB / 6.2GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.00%    10.91MiB / 256MiB   6.47GB / 6.27GB
+backend   20.03%    131.9MiB / 512MiB   47.6MB / 6.31GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.00%    10.91MiB / 256MiB   6.47GB / 6.27GB [K
+backend   20.03%    131.9MiB / 512MiB   47.6MB / 6.31GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.00%    10.91MiB / 256MiB   6.47GB / 6.27GB
+backend   20.03%    131.9MiB / 512MiB   47.6MB / 6.31GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.00%    10.91MiB / 256MiB   6.47GB / 6.27GB [K
+backend   20.03%    131.9MiB / 512MiB   47.6MB / 6.31GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.94%    11.5MiB / 256MiB    6.58GB / 6.38GB
+backend   19.73%    131.9MiB / 512MiB   48.2MB / 6.41GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.94%    11.5MiB / 256MiB    6.58GB / 6.38GB [K
+backend   19.73%    131.9MiB / 512MiB   48.2MB / 6.41GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.94%    11.5MiB / 256MiB    6.58GB / 6.38GB
+backend   19.73%    131.9MiB / 512MiB   48.2MB / 6.41GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.94%    11.5MiB / 256MiB    6.58GB / 6.38GB [K
+backend   19.73%    131.9MiB / 512MiB   48.2MB / 6.41GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.94%    11.5MiB / 256MiB    6.58GB / 6.38GB
+backend   19.73%    131.9MiB / 512MiB   48.2MB / 6.41GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.94%    11.5MiB / 256MiB    6.58GB / 6.38GB [K
+backend   19.73%    131.9MiB / 512MiB   48.2MB / 6.41GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.37%    10.72MiB / 256MiB   6.69GB / 6.49GB
+backend   20.57%    131.9MiB / 512MiB   49.1MB / 6.52GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.37%    10.72MiB / 256MiB   6.69GB / 6.49GB [K
+backend   20.57%    131.9MiB / 512MiB   49.1MB / 6.52GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.37%    10.72MiB / 256MiB   6.69GB / 6.49GB
+backend   20.57%    131.9MiB / 512MiB   49.1MB / 6.52GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.37%    10.72MiB / 256MiB   6.69GB / 6.49GB [K
+backend   20.57%    131.9MiB / 512MiB   49.1MB / 6.52GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.31%    10.73MiB / 256MiB   6.8GB / 6.58GB
+backend   17.87%    131.9MiB / 512MiB   49.7MB / 6.63GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.31%    10.73MiB / 256MiB   6.8GB / 6.58GB [K
+backend   17.87%    131.9MiB / 512MiB   49.7MB / 6.63GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.31%    10.73MiB / 256MiB   6.8GB / 6.58GB
+backend   17.87%    131.9MiB / 512MiB   49.7MB / 6.63GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.31%    10.73MiB / 256MiB   6.8GB / 6.58GB [K
+backend   17.87%    131.9MiB / 512MiB   49.7MB / 6.63GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.39%    11.89MiB / 256MiB   6.91GB / 6.69GB
+backend   19.51%    131.9MiB / 512MiB   50.2MB / 6.73GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.39%    11.89MiB / 256MiB   6.91GB / 6.69GB [K
+backend   19.51%    131.9MiB / 512MiB   50.2MB / 6.73GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.39%    11.89MiB / 256MiB   6.91GB / 6.69GB
+backend   19.51%    131.9MiB / 512MiB   50.2MB / 6.73GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.39%    11.89MiB / 256MiB   6.91GB / 6.69GB [K
+backend   19.51%    131.9MiB / 512MiB   50.2MB / 6.73GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.87%    11.55MiB / 256MiB   7.02GB / 6.8GB
+backend   21.28%    132.1MiB / 512MiB   51.1MB / 6.84GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.87%    11.55MiB / 256MiB   7.02GB / 6.8GB [K
+backend   21.28%    132.1MiB / 512MiB   51.1MB / 6.84GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.87%    11.55MiB / 256MiB   7.02GB / 6.8GB
+backend   21.28%    132.1MiB / 512MiB   51.1MB / 6.84GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.87%    11.55MiB / 256MiB   7.02GB / 6.8GB [K
+backend   21.28%    132.1MiB / 512MiB   51.1MB / 6.84GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.39%    11.05MiB / 256MiB   7.13GB / 6.9GB
+backend   21.23%    131.9MiB / 512MiB   51.8MB / 6.95GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.39%    11.05MiB / 256MiB   7.13GB / 6.9GB [K
+backend   21.23%    131.9MiB / 512MiB   51.8MB / 6.95GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.39%    11.05MiB / 256MiB   7.13GB / 6.9GB
+backend   21.23%    131.9MiB / 512MiB   51.8MB / 6.95GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.39%    11.05MiB / 256MiB   7.13GB / 6.9GB [K
+backend   21.23%    131.9MiB / 512MiB   51.8MB / 6.95GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.80%    11.98MiB / 256MiB   7.24GB / 7.01GB
+backend   21.63%    131.9MiB / 512MiB   52.6MB / 7.05GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.80%    11.98MiB / 256MiB   7.24GB / 7.01GB [K
+backend   21.63%    131.9MiB / 512MiB   52.6MB / 7.05GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.80%    11.98MiB / 256MiB   7.24GB / 7.01GB
+backend   21.63%    131.9MiB / 512MiB   52.6MB / 7.05GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.80%    11.98MiB / 256MiB   7.24GB / 7.01GB [K
+backend   21.63%    131.9MiB / 512MiB   52.6MB / 7.05GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.99%    12.21MiB / 256MiB   7.35GB / 7.12GB
+backend   20.54%    132.1MiB / 512MiB   53.4MB / 7.16GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.99%    12.21MiB / 256MiB   7.35GB / 7.12GB [K
+backend   20.54%    132.1MiB / 512MiB   53.4MB / 7.16GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.99%    12.21MiB / 256MiB   7.35GB / 7.12GB
+backend   20.54%    132.1MiB / 512MiB   53.4MB / 7.16GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.99%    12.21MiB / 256MiB   7.35GB / 7.12GB [K
+backend   20.54%    132.1MiB / 512MiB   53.4MB / 7.16GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.11%    10.85MiB / 256MiB   7.44GB / 7.2GB
+backend   21.77%    131.9MiB / 512MiB   54.1MB / 7.25GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.11%    10.85MiB / 256MiB   7.44GB / 7.2GB [K
+backend   21.77%    131.9MiB / 512MiB   54.1MB / 7.25GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.11%    10.85MiB / 256MiB   7.44GB / 7.2GB
+backend   21.77%    131.9MiB / 512MiB   54.1MB / 7.25GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.11%    10.85MiB / 256MiB   7.44GB / 7.2GB [K
+backend   21.77%    131.9MiB / 512MiB   54.1MB / 7.25GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.04%    11.66MiB / 256MiB   7.56GB / 7.3GB
+backend   23.75%    132.1MiB / 512MiB   55MB / 7.37GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.04%    11.66MiB / 256MiB   7.56GB / 7.3GB [K
+backend   23.75%    132.1MiB / 512MiB   55MB / 7.37GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.04%    11.66MiB / 256MiB   7.56GB / 7.3GB
+backend   23.75%    132.1MiB / 512MiB   55MB / 7.37GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.04%    11.66MiB / 256MiB   7.56GB / 7.3GB [K
+backend   23.75%    132.1MiB / 512MiB   55MB / 7.37GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.20%    10.96MiB / 256MiB   7.67GB / 7.41GB
+backend   21.82%    132.4MiB / 512MiB   55.8MB / 7.47GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.20%    10.96MiB / 256MiB   7.67GB / 7.41GB [K
+backend   21.82%    132.4MiB / 512MiB   55.8MB / 7.47GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.20%    10.96MiB / 256MiB   7.67GB / 7.41GB
+backend   21.82%    132.4MiB / 512MiB   55.8MB / 7.47GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.20%    10.96MiB / 256MiB   7.67GB / 7.41GB [K
+backend   21.82%    132.4MiB / 512MiB   55.8MB / 7.47GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.32%    11.12MiB / 256MiB   7.78GB / 7.51GB
+backend   20.79%    131.9MiB / 512MiB   56.7MB / 7.58GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.32%    11.12MiB / 256MiB   7.78GB / 7.51GB [K
+backend   20.79%    131.9MiB / 512MiB   56.7MB / 7.58GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.32%    11.12MiB / 256MiB   7.78GB / 7.51GB
+backend   20.79%    131.9MiB / 512MiB   56.7MB / 7.58GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.32%    11.12MiB / 256MiB   7.78GB / 7.51GB [K
+backend   20.79%    131.9MiB / 512MiB   56.7MB / 7.58GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.57%    11.12MiB / 256MiB   7.9GB / 7.62GB
+backend   22.00%    132.1MiB / 512MiB   57.6MB / 7.69GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.57%    11.12MiB / 256MiB   7.9GB / 7.62GB [K
+backend   22.00%    132.1MiB / 512MiB   57.6MB / 7.69GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.57%    11.12MiB / 256MiB   7.9GB / 7.62GB
+backend   22.00%    132.1MiB / 512MiB   57.6MB / 7.69GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.57%    11.12MiB / 256MiB   7.9GB / 7.62GB [K
+backend   22.00%    132.1MiB / 512MiB   57.6MB / 7.69GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.52%    10.89MiB / 256MiB   8.01GB / 7.73GB
+backend   20.49%    131.9MiB / 512MiB   58.4MB / 7.8GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.52%    10.89MiB / 256MiB   8.01GB / 7.73GB [K
+backend   20.49%    131.9MiB / 512MiB   58.4MB / 7.8GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.52%    10.89MiB / 256MiB   8.01GB / 7.73GB
+backend   20.49%    131.9MiB / 512MiB   58.4MB / 7.8GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.52%    10.89MiB / 256MiB   8.01GB / 7.73GB [K
+backend   20.49%    131.9MiB / 512MiB   58.4MB / 7.8GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.84%    11.49MiB / 256MiB   8.12GB / 7.84GB
+backend   20.42%    132.1MiB / 512MiB   59.2MB / 7.91GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.84%    11.49MiB / 256MiB   8.12GB / 7.84GB [K
+backend   20.42%    132.1MiB / 512MiB   59.2MB / 7.91GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.84%    11.49MiB / 256MiB   8.12GB / 7.84GB
+backend   20.42%    132.1MiB / 512MiB   59.2MB / 7.91GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.84%    11.49MiB / 256MiB   8.12GB / 7.84GB [K
+backend   20.42%    132.1MiB / 512MiB   59.2MB / 7.91GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.44%    11.94MiB / 256MiB   8.23GB / 7.95GB
+backend   20.22%    132.4MiB / 512MiB   60MB / 8.02GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.44%    11.94MiB / 256MiB   8.23GB / 7.95GB [K
+backend   20.22%    132.4MiB / 512MiB   60MB / 8.02GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.44%    11.94MiB / 256MiB   8.23GB / 7.95GB
+backend   20.22%    132.4MiB / 512MiB   60MB / 8.02GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.44%    11.94MiB / 256MiB   8.23GB / 7.95GB [K
+backend   20.22%    132.4MiB / 512MiB   60MB / 8.02GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.29%    11.35MiB / 256MiB   8.34GB / 8.06GB
+backend   20.27%    131.9MiB / 512MiB   60.9MB / 8.12GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.29%    11.35MiB / 256MiB   8.34GB / 8.06GB [K
+backend   20.27%    131.9MiB / 512MiB   60.9MB / 8.12GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.29%    11.35MiB / 256MiB   8.34GB / 8.06GB
+backend   20.27%    131.9MiB / 512MiB   60.9MB / 8.12GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.29%    11.35MiB / 256MiB   8.34GB / 8.06GB [K
+backend   20.27%    131.9MiB / 512MiB   60.9MB / 8.12GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.12%    11.38MiB / 256MiB   8.44GB / 8.17GB
+backend   20.00%    132.4MiB / 512MiB   61.7MB / 8.23GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.12%    11.38MiB / 256MiB   8.44GB / 8.17GB [K
+backend   20.00%    132.4MiB / 512MiB   61.7MB / 8.23GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.12%    11.38MiB / 256MiB   8.44GB / 8.17GB
+backend   20.00%    132.4MiB / 512MiB   61.7MB / 8.23GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.12%    11.38MiB / 256MiB   8.44GB / 8.17GB [K
+backend   20.00%    132.4MiB / 512MiB   61.7MB / 8.23GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.43%    10.98MiB / 256MiB   8.55GB / 8.27GB
+backend   21.53%    131.9MiB / 512MiB   62.6MB / 8.34GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.43%    10.98MiB / 256MiB   8.55GB / 8.27GB [K
+backend   21.53%    131.9MiB / 512MiB   62.6MB / 8.34GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.43%    10.98MiB / 256MiB   8.55GB / 8.27GB
+backend   21.53%    131.9MiB / 512MiB   62.6MB / 8.34GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.43%    10.98MiB / 256MiB   8.55GB / 8.27GB [K
+backend   21.53%    131.9MiB / 512MiB   62.6MB / 8.34GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.35%    11.96MiB / 256MiB   8.66GB / 8.38GB
+backend   21.10%    132.1MiB / 512MiB   63.4MB / 8.44GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.35%    11.96MiB / 256MiB   8.66GB / 8.38GB [K
+backend   21.10%    132.1MiB / 512MiB   63.4MB / 8.44GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.35%    11.96MiB / 256MiB   8.66GB / 8.38GB
+backend   21.10%    132.1MiB / 512MiB   63.4MB / 8.44GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.35%    11.96MiB / 256MiB   8.66GB / 8.38GB [K
+backend   21.10%    132.1MiB / 512MiB   63.4MB / 8.44GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.18%    11.75MiB / 256MiB   8.77GB / 8.49GB
+backend   21.07%    133.4MiB / 512MiB   64.3MB / 8.55GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.18%    11.75MiB / 256MiB   8.77GB / 8.49GB [K
+backend   21.07%    133.4MiB / 512MiB   64.3MB / 8.55GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.18%    11.75MiB / 256MiB   8.77GB / 8.49GB
+backend   21.07%    133.4MiB / 512MiB   64.3MB / 8.55GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.18%    11.75MiB / 256MiB   8.77GB / 8.49GB [K
+backend   21.07%    133.4MiB / 512MiB   64.3MB / 8.55GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.39%    11.49MiB / 256MiB   8.88GB / 8.6GB
+backend   20.31%    133.4MiB / 512MiB   65.1MB / 8.66GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.39%    11.49MiB / 256MiB   8.88GB / 8.6GB [K
+backend   20.31%    133.4MiB / 512MiB   65.1MB / 8.66GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.39%    11.49MiB / 256MiB   8.88GB / 8.6GB
+backend   20.31%    133.4MiB / 512MiB   65.1MB / 8.66GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.39%    11.49MiB / 256MiB   8.88GB / 8.6GB [K
+backend   20.31%    133.4MiB / 512MiB   65.1MB / 8.66GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.18%    10.8MiB / 256MiB    8.99GB / 8.71GB
+backend   20.39%    133.4MiB / 512MiB   66MB / 8.76GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.18%    10.8MiB / 256MiB    8.99GB / 8.71GB [K
+backend   20.39%    133.4MiB / 512MiB   66MB / 8.76GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.18%    10.8MiB / 256MiB    8.99GB / 8.71GB
+backend   20.39%    133.4MiB / 512MiB   66MB / 8.76GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.18%    10.8MiB / 256MiB    8.99GB / 8.71GB [K
+backend   20.39%    133.4MiB / 512MiB   66MB / 8.76GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.46%    8.5MiB / 256MiB     9.1GB / 8.82GB
+backend   19.98%    133.4MiB / 512MiB   66.9MB / 8.87GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.46%    8.5MiB / 256MiB     9.1GB / 8.82GB [K
+backend   19.98%    133.4MiB / 512MiB   66.9MB / 8.87GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.46%    8.5MiB / 256MiB     9.1GB / 8.82GB
+backend   19.98%    133.4MiB / 512MiB   66.9MB / 8.87GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.46%    8.5MiB / 256MiB     9.1GB / 8.82GB [K
+backend   19.98%    133.4MiB / 512MiB   66.9MB / 8.87GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.27%    9.008MiB / 256MiB   9.21GB / 8.93GB
+backend   19.84%    133.4MiB / 512MiB   67.7MB / 8.98GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.27%    9.008MiB / 256MiB   9.21GB / 8.93GB [K
+backend   19.84%    133.4MiB / 512MiB   67.7MB / 8.98GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.27%    9.008MiB / 256MiB   9.21GB / 8.93GB
+backend   19.84%    133.4MiB / 512MiB   67.7MB / 8.98GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.27%    9.008MiB / 256MiB   9.21GB / 8.93GB [K
+backend   19.84%    133.4MiB / 512MiB   67.7MB / 8.98GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.49%    8.738MiB / 256MiB   9.32GB / 9.03GB
+backend   20.74%    133.6MiB / 512MiB   68.6MB / 9.08GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.49%    8.738MiB / 256MiB   9.32GB / 9.03GB [K
+backend   20.74%    133.6MiB / 512MiB   68.6MB / 9.08GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.49%    8.738MiB / 256MiB   9.32GB / 9.03GB
+backend   20.74%    133.6MiB / 512MiB   68.6MB / 9.08GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.49%    8.738MiB / 256MiB   9.32GB / 9.03GB [K
+backend   20.74%    133.6MiB / 512MiB   68.6MB / 9.08GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.43%    6.914MiB / 256MiB   9.43GB / 9.14GB
+backend   20.18%    133.4MiB / 512MiB   69.4MB / 9.19GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.43%    6.914MiB / 256MiB   9.43GB / 9.14GB [K
+backend   20.18%    133.4MiB / 512MiB   69.4MB / 9.19GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.43%    6.914MiB / 256MiB   9.43GB / 9.14GB
+backend   20.18%    133.4MiB / 512MiB   69.4MB / 9.19GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.43%    6.914MiB / 256MiB   9.43GB / 9.14GB [K
+backend   20.18%    133.4MiB / 512MiB   69.4MB / 9.19GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.00%    11.23MiB / 256MiB   9.55GB / 9.25GB
+backend   21.14%    133.4MiB / 512MiB   70.3MB / 9.31GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.00%    11.23MiB / 256MiB   9.55GB / 9.25GB [K
+backend   21.14%    133.4MiB / 512MiB   70.3MB / 9.31GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.00%    11.23MiB / 256MiB   9.55GB / 9.25GB
+backend   21.14%    133.4MiB / 512MiB   70.3MB / 9.31GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.00%    11.23MiB / 256MiB   9.55GB / 9.25GB [K
+backend   21.14%    133.4MiB / 512MiB   70.3MB / 9.31GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     20.69%    10.77MiB / 256MiB   9.68GB / 9.36GB
+backend   22.59%    133.7MiB / 512MiB   71.1MB / 9.43GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     20.69%    10.77MiB / 256MiB   9.68GB / 9.36GB [K
+backend   22.59%    133.7MiB / 512MiB   71.1MB / 9.43GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     20.69%    10.77MiB / 256MiB   9.68GB / 9.36GB
+backend   22.59%    133.7MiB / 512MiB   71.1MB / 9.43GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     20.69%    10.77MiB / 256MiB   9.68GB / 9.36GB [K
+backend   22.59%    133.7MiB / 512MiB   71.1MB / 9.43GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.26%    11.09MiB / 256MiB   9.8GB / 9.47GB
+backend   21.97%    133.4MiB / 512MiB   71.9MB / 9.55GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.26%    11.09MiB / 256MiB   9.8GB / 9.47GB [K
+backend   21.97%    133.4MiB / 512MiB   71.9MB / 9.55GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.26%    11.09MiB / 256MiB   9.8GB / 9.47GB
+backend   21.97%    133.4MiB / 512MiB   71.9MB / 9.55GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.26%    11.09MiB / 256MiB   9.8GB / 9.47GB [K
+backend   21.97%    133.4MiB / 512MiB   71.9MB / 9.55GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.28%    10.36MiB / 256MiB   9.91GB / 9.58GB
+backend   21.93%    133.4MiB / 512MiB   72.8MB / 9.66GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.28%    10.36MiB / 256MiB   9.91GB / 9.58GB [K
+backend   21.93%    133.4MiB / 512MiB   72.8MB / 9.66GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.28%    10.36MiB / 256MiB   9.91GB / 9.58GB
+backend   21.93%    133.4MiB / 512MiB   72.8MB / 9.66GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.28%    10.36MiB / 256MiB   9.91GB / 9.58GB [K
+backend   21.93%    133.4MiB / 512MiB   72.8MB / 9.66GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.04%    11.18MiB / 256MiB   10GB / 9.69GB
+backend   21.95%    133.7MiB / 512MiB   73.6MB / 9.78GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.04%    11.18MiB / 256MiB   10GB / 9.69GB [K
+backend   21.95%    133.7MiB / 512MiB   73.6MB / 9.78GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     19.04%    11.18MiB / 256MiB   10GB / 9.69GB
+backend   21.95%    133.7MiB / 512MiB   73.6MB / 9.78GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     19.04%    11.18MiB / 256MiB   10GB / 9.69GB [K
+backend   21.95%    133.7MiB / 512MiB   73.6MB / 9.78GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.81%    11.34MiB / 256MiB   10.1GB / 9.8GB
+backend   20.66%    133.7MiB / 512MiB   74.4MB / 9.88GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.81%    11.34MiB / 256MiB   10.1GB / 9.8GB [K
+backend   20.66%    133.7MiB / 512MiB   74.4MB / 9.88GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.81%    11.34MiB / 256MiB   10.1GB / 9.8GB
+backend   20.66%    133.7MiB / 512MiB   74.4MB / 9.88GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.81%    11.34MiB / 256MiB   10.1GB / 9.8GB [K
+backend   20.66%    133.7MiB / 512MiB   74.4MB / 9.88GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.63%    11.58MiB / 256MiB   10.3GB / 9.91GB
+backend   20.85%    133.4MiB / 512MiB   75.3MB / 9.99GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.63%    11.58MiB / 256MiB   10.3GB / 9.91GB [K
+backend   20.85%    133.4MiB / 512MiB   75.3MB / 9.99GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.63%    11.58MiB / 256MiB   10.3GB / 9.91GB
+backend   20.85%    133.4MiB / 512MiB   75.3MB / 9.99GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.63%    11.58MiB / 256MiB   10.3GB / 9.91GB [K
+backend   20.85%    133.4MiB / 512MiB   75.3MB / 9.99GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.28%    11.6MiB / 256MiB    10.4GB / 10GB
+backend   20.39%    133.4MiB / 512MiB   76.1MB / 10.1GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.28%    11.6MiB / 256MiB    10.4GB / 10GB [K
+backend   20.39%    133.4MiB / 512MiB   76.1MB / 10.1GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.28%    11.6MiB / 256MiB    10.4GB / 10GB
+backend   20.39%    133.4MiB / 512MiB   76.1MB / 10.1GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.28%    11.6MiB / 256MiB    10.4GB / 10GB [K
+backend   20.39%    133.4MiB / 512MiB   76.1MB / 10.1GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.22%    10.88MiB / 256MiB   10.5GB / 10.1GB
+backend   20.29%    133.7MiB / 512MiB   77MB / 10.2GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.22%    10.88MiB / 256MiB   10.5GB / 10.1GB [K
+backend   20.29%    133.7MiB / 512MiB   77MB / 10.2GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.22%    10.88MiB / 256MiB   10.5GB / 10.1GB
+backend   20.29%    133.7MiB / 512MiB   77MB / 10.2GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.22%    10.88MiB / 256MiB   10.5GB / 10.1GB [K
+backend   20.29%    133.7MiB / 512MiB   77MB / 10.2GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.12%    11.02MiB / 256MiB   10.6GB / 10.2GB
+backend   20.77%    133.4MiB / 512MiB   77.8MB / 10.3GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.12%    11.02MiB / 256MiB   10.6GB / 10.2GB [K
+backend   20.77%    133.4MiB / 512MiB   77.8MB / 10.3GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.12%    11.02MiB / 256MiB   10.6GB / 10.2GB
+backend   20.77%    133.4MiB / 512MiB   77.8MB / 10.3GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.12%    11.02MiB / 256MiB   10.6GB / 10.2GB [K
+backend   20.77%    133.4MiB / 512MiB   77.8MB / 10.3GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.20%    11.47MiB / 256MiB   10.7GB / 10.3GB
+backend   20.34%    133.7MiB / 512MiB   78.7MB / 10.4GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.20%    11.47MiB / 256MiB   10.7GB / 10.3GB [K
+backend   20.34%    133.7MiB / 512MiB   78.7MB / 10.4GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.20%    11.47MiB / 256MiB   10.7GB / 10.3GB
+backend   20.34%    133.7MiB / 512MiB   78.7MB / 10.4GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.20%    11.47MiB / 256MiB   10.7GB / 10.3GB [K
+backend   20.34%    133.7MiB / 512MiB   78.7MB / 10.4GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.03%    10.79MiB / 256MiB   10.8GB / 10.5GB
+backend   20.03%    133.7MiB / 512MiB   79.6MB / 10.5GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.03%    10.79MiB / 256MiB   10.8GB / 10.5GB [K
+backend   20.03%    133.7MiB / 512MiB   79.6MB / 10.5GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.03%    10.79MiB / 256MiB   10.8GB / 10.5GB
+backend   20.03%    133.7MiB / 512MiB   79.6MB / 10.5GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.03%    10.79MiB / 256MiB   10.8GB / 10.5GB [K
+backend   20.03%    133.7MiB / 512MiB   79.6MB / 10.5GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.03%    12.08MiB / 256MiB   10.9GB / 10.6GB
+backend   19.88%    133.7MiB / 512MiB   80.5MB / 10.6GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.03%    12.08MiB / 256MiB   10.9GB / 10.6GB [K
+backend   19.88%    133.7MiB / 512MiB   80.5MB / 10.6GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.03%    12.08MiB / 256MiB   10.9GB / 10.6GB
+backend   19.88%    133.7MiB / 512MiB   80.5MB / 10.6GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.03%    12.08MiB / 256MiB   10.9GB / 10.6GB [K
+backend   19.88%    133.7MiB / 512MiB   80.5MB / 10.6GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.15%    10.57MiB / 256MiB   11GB / 10.7GB
+backend   21.02%    134.7MiB / 512MiB   81.3MB / 10.7GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.15%    10.57MiB / 256MiB   11GB / 10.7GB [K
+backend   21.02%    134.7MiB / 512MiB   81.3MB / 10.7GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.15%    10.57MiB / 256MiB   11GB / 10.7GB
+backend   21.02%    134.7MiB / 512MiB   81.3MB / 10.7GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.15%    10.57MiB / 256MiB   11GB / 10.7GB [K
+backend   21.02%    134.7MiB / 512MiB   81.3MB / 10.7GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.43%    11.01MiB / 256MiB   11.1GB / 10.8GB
+backend   20.76%    134.3MiB / 512MiB   82.2MB / 10.8GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.43%    11.01MiB / 256MiB   11.1GB / 10.8GB [K
+backend   20.76%    134.3MiB / 512MiB   82.2MB / 10.8GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.43%    11.01MiB / 256MiB   11.1GB / 10.8GB
+backend   20.76%    134.3MiB / 512MiB   82.2MB / 10.8GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.43%    11.01MiB / 256MiB   11.1GB / 10.8GB [K
+backend   20.76%    134.3MiB / 512MiB   82.2MB / 10.8GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.28%    8.945MiB / 256MiB   11.2GB / 10.9GB
+backend   21.30%    134.3MiB / 512MiB   83.1MB / 11GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.28%    8.945MiB / 256MiB   11.2GB / 10.9GB [K
+backend   21.30%    134.3MiB / 512MiB   83.1MB / 11GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.28%    8.945MiB / 256MiB   11.2GB / 10.9GB
+backend   21.30%    134.3MiB / 512MiB   83.1MB / 11GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.28%    8.945MiB / 256MiB   11.2GB / 10.9GB [K
+backend   21.30%    134.3MiB / 512MiB   83.1MB / 11GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.59%    8.215MiB / 256MiB   11.4GB / 11GB
+backend   21.16%    134.3MiB / 512MiB   84.1MB / 11.1GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.59%    8.215MiB / 256MiB   11.4GB / 11GB [K
+backend   21.16%    134.3MiB / 512MiB   84.1MB / 11.1GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.59%    8.215MiB / 256MiB   11.4GB / 11GB
+backend   21.16%    134.3MiB / 512MiB   84.1MB / 11.1GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.59%    8.215MiB / 256MiB   11.4GB / 11GB [K
+backend   21.16%    134.3MiB / 512MiB   84.1MB / 11.1GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.62%    6.895MiB / 256MiB   11.5GB / 11.1GB
+backend   20.66%    134.2MiB / 512MiB   85MB / 11.2GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.62%    6.895MiB / 256MiB   11.5GB / 11.1GB [K
+backend   20.66%    134.2MiB / 512MiB   85MB / 11.2GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     16.62%    6.895MiB / 256MiB   11.5GB / 11.1GB
+backend   20.66%    134.2MiB / 512MiB   85MB / 11.2GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     16.62%    6.895MiB / 256MiB   11.5GB / 11.1GB [K
+backend   20.66%    134.2MiB / 512MiB   85MB / 11.2GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.63%    10.98MiB / 256MiB   11.6GB / 11.2GB
+backend   21.31%    134.3MiB / 512MiB   85.9MB / 11.3GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.63%    10.98MiB / 256MiB   11.6GB / 11.2GB [K
+backend   21.31%    134.3MiB / 512MiB   85.9MB / 11.3GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     17.63%    10.98MiB / 256MiB   11.6GB / 11.2GB
+backend   21.31%    134.3MiB / 512MiB   85.9MB / 11.3GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     17.63%    10.98MiB / 256MiB   11.6GB / 11.2GB [K
+backend   21.31%    134.3MiB / 512MiB   85.9MB / 11.3GB [K
+ [K
+[J[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O
+nginx     18.83%    10.58MiB / 256MiB   11.7GB / 11.3GB
+backend   24.02%    134.5MiB / 512MiB   86.9MB / 11.4GB
+[HNAME      CPU %     MEM USAGE / LIMIT   NET I/O [K
+nginx     18.83%    10.58MiB / 256MiB   11.7GB / 11.3GB [K
+backend   24.02%    134.5MiB / 512MiB   86.9MB / 11.4GB [K
+ [K
+[J
