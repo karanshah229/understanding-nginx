@@ -1,0 +1,848 @@
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     0.01%     168.9MiB / 256MiB   5.53kB / 3.95kB
+08-cpu-bound-backend-backend-1   0.38%     101.3MiB / 512MiB   3.07kB / 636B
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     0.01%     168.9MiB / 256MiB   5.53kB / 3.95kB [K
+08-cpu-bound-backend-backend-1   0.38%     101.3MiB / 512MiB   3.07kB / 636B [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     0.01%     168.9MiB / 256MiB   5.53kB / 3.95kB
+08-cpu-bound-backend-backend-1   0.38%     101.3MiB / 512MiB   3.07kB / 636B
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     0.01%     168.9MiB / 256MiB   5.53kB / 3.95kB [K
+08-cpu-bound-backend-backend-1   0.38%     101.3MiB / 512MiB   3.07kB / 636B [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     2.76%     169.6MiB / 256MiB   32.3kB / 31.4kB
+08-cpu-bound-backend-backend-1   35.40%    107MiB / 512MiB     16.1kB / 13.1kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     2.76%     169.6MiB / 256MiB   32.3kB / 31.4kB [K
+08-cpu-bound-backend-backend-1   35.40%    107MiB / 512MiB     16.1kB / 13.1kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     2.76%     169.6MiB / 256MiB   32.3kB / 31.4kB
+08-cpu-bound-backend-backend-1   35.40%    107MiB / 512MiB     16.1kB / 13.1kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     2.76%     169.6MiB / 256MiB   32.3kB / 31.4kB [K
+08-cpu-bound-backend-backend-1   35.40%    107MiB / 512MiB     16.1kB / 13.1kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.60%     169.9MiB / 256MiB   69kB / 66.8kB
+08-cpu-bound-backend-backend-1   49.90%    107.3MiB / 512MiB   26kB / 34.6kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.60%     169.9MiB / 256MiB   69kB / 66.8kB [K
+08-cpu-bound-backend-backend-1   49.90%    107.3MiB / 512MiB   26kB / 34.6kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.60%     169.9MiB / 256MiB   69kB / 66.8kB
+08-cpu-bound-backend-backend-1   49.90%    107.3MiB / 512MiB   26kB / 34.6kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.60%     169.9MiB / 256MiB   69kB / 66.8kB [K
+08-cpu-bound-backend-backend-1   49.90%    107.3MiB / 512MiB   26kB / 34.6kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.33%     169.7MiB / 256MiB   97kB / 93.4kB
+08-cpu-bound-backend-backend-1   49.30%    107.7MiB / 512MiB   33.2kB / 51kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.33%     169.7MiB / 256MiB   97kB / 93.4kB [K
+08-cpu-bound-backend-backend-1   49.30%    107.7MiB / 512MiB   33.2kB / 51kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.33%     169.7MiB / 256MiB   97kB / 93.4kB
+08-cpu-bound-backend-backend-1   49.30%    107.7MiB / 512MiB   33.2kB / 51kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.33%     169.7MiB / 256MiB   97kB / 93.4kB [K
+08-cpu-bound-backend-backend-1   49.30%    107.7MiB / 512MiB   33.2kB / 51kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.51%     169.7MiB / 256MiB   132kB / 127kB
+08-cpu-bound-backend-backend-1   49.68%    107.6MiB / 512MiB   42.2kB / 71.6kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.51%     169.7MiB / 256MiB   132kB / 127kB [K
+08-cpu-bound-backend-backend-1   49.68%    107.6MiB / 512MiB   42.2kB / 71.6kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.51%     169.7MiB / 256MiB   132kB / 127kB
+08-cpu-bound-backend-backend-1   49.68%    107.6MiB / 512MiB   42.2kB / 71.6kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.51%     169.7MiB / 256MiB   132kB / 127kB [K
+08-cpu-bound-backend-backend-1   49.68%    107.6MiB / 512MiB   42.2kB / 71.6kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.31%     169.9MiB / 256MiB   163kB / 156kB
+08-cpu-bound-backend-backend-1   49.67%    108.6MiB / 512MiB   50.1kB / 89.4kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.31%     169.9MiB / 256MiB   163kB / 156kB [K
+08-cpu-bound-backend-backend-1   49.67%    108.6MiB / 512MiB   50.1kB / 89.4kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.31%     169.9MiB / 256MiB   163kB / 156kB
+08-cpu-bound-backend-backend-1   49.67%    108.6MiB / 512MiB   50.1kB / 89.4kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.31%     169.9MiB / 256MiB   163kB / 156kB [K
+08-cpu-bound-backend-backend-1   49.67%    108.6MiB / 512MiB   50.1kB / 89.4kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.44%     169.9MiB / 256MiB   198kB / 190kB
+08-cpu-bound-backend-backend-1   49.83%    108.7MiB / 512MiB   59.1kB / 110kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.44%     169.9MiB / 256MiB   198kB / 190kB [K
+08-cpu-bound-backend-backend-1   49.83%    108.7MiB / 512MiB   59.1kB / 110kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.44%     169.9MiB / 256MiB   198kB / 190kB
+08-cpu-bound-backend-backend-1   49.83%    108.7MiB / 512MiB   59.1kB / 110kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.44%     169.9MiB / 256MiB   198kB / 190kB [K
+08-cpu-bound-backend-backend-1   49.83%    108.7MiB / 512MiB   59.1kB / 110kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.42%     170.1MiB / 256MiB   235kB / 225kB
+08-cpu-bound-backend-backend-1   49.55%    108.9MiB / 512MiB   68.7kB / 132kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.42%     170.1MiB / 256MiB   235kB / 225kB [K
+08-cpu-bound-backend-backend-1   49.55%    108.9MiB / 512MiB   68.7kB / 132kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.42%     170.1MiB / 256MiB   235kB / 225kB
+08-cpu-bound-backend-backend-1   49.55%    108.9MiB / 512MiB   68.7kB / 132kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.42%     170.1MiB / 256MiB   235kB / 225kB [K
+08-cpu-bound-backend-backend-1   49.55%    108.9MiB / 512MiB   68.7kB / 132kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.25%     169.6MiB / 256MiB   268kB / 256kB
+08-cpu-bound-backend-backend-1   49.91%    110MiB / 512MiB     77kB / 151kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.25%     169.6MiB / 256MiB   268kB / 256kB [K
+08-cpu-bound-backend-backend-1   49.91%    110MiB / 512MiB     77kB / 151kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.25%     169.6MiB / 256MiB   268kB / 256kB
+08-cpu-bound-backend-backend-1   49.91%    110MiB / 512MiB     77kB / 151kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.25%     169.6MiB / 256MiB   268kB / 256kB [K
+08-cpu-bound-backend-backend-1   49.91%    110MiB / 512MiB     77kB / 151kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.39%     169.6MiB / 256MiB   296kB / 284kB
+08-cpu-bound-backend-backend-1   49.37%    109.7MiB / 512MiB   84.2kB / 167kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.39%     169.6MiB / 256MiB   296kB / 284kB [K
+08-cpu-bound-backend-backend-1   49.37%    109.7MiB / 512MiB   84.2kB / 167kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.39%     169.6MiB / 256MiB   296kB / 284kB
+08-cpu-bound-backend-backend-1   49.37%    109.7MiB / 512MiB   84.2kB / 167kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.39%     169.6MiB / 256MiB   296kB / 284kB [K
+08-cpu-bound-backend-backend-1   49.37%    109.7MiB / 512MiB   84.2kB / 167kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.61%     169.9MiB / 256MiB   334kB / 319kB
+08-cpu-bound-backend-backend-1   51.88%    109.8MiB / 512MiB   94.2kB / 190kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.61%     169.9MiB / 256MiB   334kB / 319kB [K
+08-cpu-bound-backend-backend-1   51.88%    109.8MiB / 512MiB   94.2kB / 190kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.61%     169.9MiB / 256MiB   334kB / 319kB
+08-cpu-bound-backend-backend-1   51.88%    109.8MiB / 512MiB   94.2kB / 190kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.61%     169.9MiB / 256MiB   334kB / 319kB [K
+08-cpu-bound-backend-backend-1   51.88%    109.8MiB / 512MiB   94.2kB / 190kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.40%     169.9MiB / 256MiB   369kB / 352kB
+08-cpu-bound-backend-backend-1   52.33%    110.4MiB / 512MiB   103kB / 210kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.40%     169.9MiB / 256MiB   369kB / 352kB [K
+08-cpu-bound-backend-backend-1   52.33%    110.4MiB / 512MiB   103kB / 210kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.40%     169.9MiB / 256MiB   369kB / 352kB
+08-cpu-bound-backend-backend-1   52.33%    110.4MiB / 512MiB   103kB / 210kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.40%     169.9MiB / 256MiB   369kB / 352kB [K
+08-cpu-bound-backend-backend-1   52.33%    110.4MiB / 512MiB   103kB / 210kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.32%     169.6MiB / 256MiB   393kB / 375kB
+08-cpu-bound-backend-backend-1   50.34%    111.1MiB / 512MiB   109kB / 224kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.32%     169.6MiB / 256MiB   393kB / 375kB [K
+08-cpu-bound-backend-backend-1   50.34%    111.1MiB / 512MiB   109kB / 224kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.32%     169.6MiB / 256MiB   393kB / 375kB
+08-cpu-bound-backend-backend-1   50.34%    111.1MiB / 512MiB   109kB / 224kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.32%     169.6MiB / 256MiB   393kB / 375kB [K
+08-cpu-bound-backend-backend-1   50.34%    111.1MiB / 512MiB   109kB / 224kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.66%     169.6MiB / 256MiB   433kB / 414kB
+08-cpu-bound-backend-backend-1   49.36%    111.5MiB / 512MiB   120kB / 248kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.66%     169.6MiB / 256MiB   433kB / 414kB [K
+08-cpu-bound-backend-backend-1   49.36%    111.5MiB / 512MiB   120kB / 248kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.66%     169.6MiB / 256MiB   433kB / 414kB
+08-cpu-bound-backend-backend-1   49.36%    111.5MiB / 512MiB   120kB / 248kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.66%     169.6MiB / 256MiB   433kB / 414kB [K
+08-cpu-bound-backend-backend-1   49.36%    111.5MiB / 512MiB   120kB / 248kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.32%     169.6MiB / 256MiB   463kB / 442kB
+08-cpu-bound-backend-backend-1   49.02%    111.4MiB / 512MiB   127kB / 266kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.32%     169.6MiB / 256MiB   463kB / 442kB [K
+08-cpu-bound-backend-backend-1   49.02%    111.4MiB / 512MiB   127kB / 266kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.32%     169.6MiB / 256MiB   463kB / 442kB
+08-cpu-bound-backend-backend-1   49.02%    111.4MiB / 512MiB   127kB / 266kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.32%     169.6MiB / 256MiB   463kB / 442kB [K
+08-cpu-bound-backend-backend-1   49.02%    111.4MiB / 512MiB   127kB / 266kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.83%     170.2MiB / 256MiB   502kB / 479kB
+08-cpu-bound-backend-backend-1   50.19%    111.5MiB / 512MiB   137kB / 288kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.83%     170.2MiB / 256MiB   502kB / 479kB [K
+08-cpu-bound-backend-backend-1   50.19%    111.5MiB / 512MiB   137kB / 288kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.83%     170.2MiB / 256MiB   502kB / 479kB
+08-cpu-bound-backend-backend-1   50.19%    111.5MiB / 512MiB   137kB / 288kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.83%     170.2MiB / 256MiB   502kB / 479kB [K
+08-cpu-bound-backend-backend-1   50.19%    111.5MiB / 512MiB   137kB / 288kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.64%     169.9MiB / 256MiB   537kB / 512kB
+08-cpu-bound-backend-backend-1   49.86%    111.8MiB / 512MiB   146kB / 309kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.64%     169.9MiB / 256MiB   537kB / 512kB [K
+08-cpu-bound-backend-backend-1   49.86%    111.8MiB / 512MiB   146kB / 309kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.64%     169.9MiB / 256MiB   537kB / 512kB
+08-cpu-bound-backend-backend-1   49.86%    111.8MiB / 512MiB   146kB / 309kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.64%     169.9MiB / 256MiB   537kB / 512kB [K
+08-cpu-bound-backend-backend-1   49.86%    111.8MiB / 512MiB   146kB / 309kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.91%     169.9MiB / 256MiB   571kB / 545kB
+08-cpu-bound-backend-backend-1   49.82%    111.9MiB / 512MiB   155kB / 329kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.91%     169.9MiB / 256MiB   571kB / 545kB [K
+08-cpu-bound-backend-backend-1   49.82%    111.9MiB / 512MiB   155kB / 329kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.91%     169.9MiB / 256MiB   571kB / 545kB
+08-cpu-bound-backend-backend-1   49.82%    111.9MiB / 512MiB   155kB / 329kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.91%     169.9MiB / 256MiB   571kB / 545kB [K
+08-cpu-bound-backend-backend-1   49.82%    111.9MiB / 512MiB   155kB / 329kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.45%     169.6MiB / 256MiB   604kB / 576kB
+08-cpu-bound-backend-backend-1   49.42%    111.7MiB / 512MiB   164kB / 348kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.45%     169.6MiB / 256MiB   604kB / 576kB [K
+08-cpu-bound-backend-backend-1   49.42%    111.7MiB / 512MiB   164kB / 348kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.45%     169.6MiB / 256MiB   604kB / 576kB
+08-cpu-bound-backend-backend-1   49.42%    111.7MiB / 512MiB   164kB / 348kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.45%     169.6MiB / 256MiB   604kB / 576kB [K
+08-cpu-bound-backend-backend-1   49.42%    111.7MiB / 512MiB   164kB / 348kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.69%     169.9MiB / 256MiB   648kB / 618kB
+08-cpu-bound-backend-backend-1   49.57%    111.8MiB / 512MiB   174kB / 372kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.69%     169.9MiB / 256MiB   648kB / 618kB [K
+08-cpu-bound-backend-backend-1   49.57%    111.8MiB / 512MiB   174kB / 372kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.69%     169.9MiB / 256MiB   648kB / 618kB
+08-cpu-bound-backend-backend-1   49.57%    111.8MiB / 512MiB   174kB / 372kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.69%     169.9MiB / 256MiB   648kB / 618kB [K
+08-cpu-bound-backend-backend-1   49.57%    111.8MiB / 512MiB   174kB / 372kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.69%     169.7MiB / 256MiB   691kB / 659kB
+08-cpu-bound-backend-backend-1   54.08%    112.3MiB / 512MiB   186kB / 399kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.69%     169.7MiB / 256MiB   691kB / 659kB [K
+08-cpu-bound-backend-backend-1   54.08%    112.3MiB / 512MiB   186kB / 399kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.69%     169.7MiB / 256MiB   691kB / 659kB
+08-cpu-bound-backend-backend-1   54.08%    112.3MiB / 512MiB   186kB / 399kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.69%     169.7MiB / 256MiB   691kB / 659kB [K
+08-cpu-bound-backend-backend-1   54.08%    112.3MiB / 512MiB   186kB / 399kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.54%     169.9MiB / 256MiB   731kB / 696kB
+08-cpu-bound-backend-backend-1   49.47%    114.8MiB / 512MiB   196kB / 422kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.54%     169.9MiB / 256MiB   731kB / 696kB [K
+08-cpu-bound-backend-backend-1   49.47%    114.8MiB / 512MiB   196kB / 422kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.54%     169.9MiB / 256MiB   731kB / 696kB
+08-cpu-bound-backend-backend-1   49.47%    114.8MiB / 512MiB   196kB / 422kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.54%     169.9MiB / 256MiB   731kB / 696kB [K
+08-cpu-bound-backend-backend-1   49.47%    114.8MiB / 512MiB   196kB / 422kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.58%     169.9MiB / 256MiB   769kB / 733kB
+08-cpu-bound-backend-backend-1   49.79%    114.9MiB / 512MiB   206kB / 445kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.58%     169.9MiB / 256MiB   769kB / 733kB [K
+08-cpu-bound-backend-backend-1   49.79%    114.9MiB / 512MiB   206kB / 445kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.58%     169.9MiB / 256MiB   769kB / 733kB
+08-cpu-bound-backend-backend-1   49.79%    114.9MiB / 512MiB   206kB / 445kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.58%     169.9MiB / 256MiB   769kB / 733kB [K
+08-cpu-bound-backend-backend-1   49.79%    114.9MiB / 512MiB   206kB / 445kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.66%     169.7MiB / 256MiB   808kB / 770kB
+08-cpu-bound-backend-backend-1   49.22%    116.8MiB / 512MiB   216kB / 468kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.66%     169.7MiB / 256MiB   808kB / 770kB [K
+08-cpu-bound-backend-backend-1   49.22%    116.8MiB / 512MiB   216kB / 468kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.66%     169.7MiB / 256MiB   808kB / 770kB
+08-cpu-bound-backend-backend-1   49.22%    116.8MiB / 512MiB   216kB / 468kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.66%     169.7MiB / 256MiB   808kB / 770kB [K
+08-cpu-bound-backend-backend-1   49.22%    116.8MiB / 512MiB   216kB / 468kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.62%     169.7MiB / 256MiB   846kB / 806kB
+08-cpu-bound-backend-backend-1   49.40%    116.8MiB / 512MiB   226kB / 490kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.62%     169.7MiB / 256MiB   846kB / 806kB [K
+08-cpu-bound-backend-backend-1   49.40%    116.8MiB / 512MiB   226kB / 490kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.62%     169.7MiB / 256MiB   846kB / 806kB
+08-cpu-bound-backend-backend-1   49.40%    116.8MiB / 512MiB   226kB / 490kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.62%     169.7MiB / 256MiB   846kB / 806kB [K
+08-cpu-bound-backend-backend-1   49.40%    116.8MiB / 512MiB   226kB / 490kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.49%     169.8MiB / 256MiB   886kB / 844kB
+08-cpu-bound-backend-backend-1   49.44%    117MiB / 512MiB     236kB / 513kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.49%     169.8MiB / 256MiB   886kB / 844kB [K
+08-cpu-bound-backend-backend-1   49.44%    117MiB / 512MiB     236kB / 513kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.49%     169.8MiB / 256MiB   886kB / 844kB
+08-cpu-bound-backend-backend-1   49.44%    117MiB / 512MiB     236kB / 513kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.49%     169.8MiB / 256MiB   886kB / 844kB [K
+08-cpu-bound-backend-backend-1   49.44%    117MiB / 512MiB     236kB / 513kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.37%     170.1MiB / 256MiB   921kB / 878kB
+08-cpu-bound-backend-backend-1   50.22%    117.1MiB / 512MiB   245kB / 534kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.37%     170.1MiB / 256MiB   921kB / 878kB [K
+08-cpu-bound-backend-backend-1   50.22%    117.1MiB / 512MiB   245kB / 534kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.37%     170.1MiB / 256MiB   921kB / 878kB
+08-cpu-bound-backend-backend-1   50.22%    117.1MiB / 512MiB   245kB / 534kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.37%     170.1MiB / 256MiB   921kB / 878kB [K
+08-cpu-bound-backend-backend-1   50.22%    117.1MiB / 512MiB   245kB / 534kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.74%     170.4MiB / 256MiB   961kB / 915kB
+08-cpu-bound-backend-backend-1   49.72%    117.2MiB / 512MiB   255kB / 557kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.74%     170.4MiB / 256MiB   961kB / 915kB [K
+08-cpu-bound-backend-backend-1   49.72%    117.2MiB / 512MiB   255kB / 557kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.74%     170.4MiB / 256MiB   961kB / 915kB
+08-cpu-bound-backend-backend-1   49.72%    117.2MiB / 512MiB   255kB / 557kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.74%     170.4MiB / 256MiB   961kB / 915kB [K
+08-cpu-bound-backend-backend-1   49.72%    117.2MiB / 512MiB   255kB / 557kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.80%     169.6MiB / 256MiB   997kB / 950kB
+08-cpu-bound-backend-backend-1   49.01%    117.2MiB / 512MiB   265kB / 579kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.80%     169.6MiB / 256MiB   997kB / 950kB [K
+08-cpu-bound-backend-backend-1   49.01%    117.2MiB / 512MiB   265kB / 579kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.80%     169.6MiB / 256MiB   997kB / 950kB
+08-cpu-bound-backend-backend-1   49.01%    117.2MiB / 512MiB   265kB / 579kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.80%     169.6MiB / 256MiB   997kB / 950kB [K
+08-cpu-bound-backend-backend-1   49.01%    117.2MiB / 512MiB   265kB / 579kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.52%     169.6MiB / 256MiB   1.04MB / 993kB
+08-cpu-bound-backend-backend-1   50.05%    117.6MiB / 512MiB   276kB / 605kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.52%     169.6MiB / 256MiB   1.04MB / 993kB [K
+08-cpu-bound-backend-backend-1   50.05%    117.6MiB / 512MiB   276kB / 605kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.52%     169.6MiB / 256MiB   1.04MB / 993kB
+08-cpu-bound-backend-backend-1   50.05%    117.6MiB / 512MiB   276kB / 605kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.52%     169.6MiB / 256MiB   1.04MB / 993kB [K
+08-cpu-bound-backend-backend-1   50.05%    117.6MiB / 512MiB   276kB / 605kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.47%     169.6MiB / 256MiB   1.09MB / 1.04MB
+08-cpu-bound-backend-backend-1   51.80%    117.7MiB / 512MiB   288kB / 632kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.47%     169.6MiB / 256MiB   1.09MB / 1.04MB [K
+08-cpu-bound-backend-backend-1   51.80%    117.7MiB / 512MiB   288kB / 632kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.47%     169.6MiB / 256MiB   1.09MB / 1.04MB
+08-cpu-bound-backend-backend-1   51.80%    117.7MiB / 512MiB   288kB / 632kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.47%     169.6MiB / 256MiB   1.09MB / 1.04MB [K
+08-cpu-bound-backend-backend-1   51.80%    117.7MiB / 512MiB   288kB / 632kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.70%     169.6MiB / 256MiB   1.13MB / 1.08MB
+08-cpu-bound-backend-backend-1   52.61%    117.9MiB / 512MiB   299kB / 657kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.70%     169.6MiB / 256MiB   1.13MB / 1.08MB [K
+08-cpu-bound-backend-backend-1   52.61%    117.9MiB / 512MiB   299kB / 657kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.70%     169.6MiB / 256MiB   1.13MB / 1.08MB
+08-cpu-bound-backend-backend-1   52.61%    117.9MiB / 512MiB   299kB / 657kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.70%     169.6MiB / 256MiB   1.13MB / 1.08MB [K
+08-cpu-bound-backend-backend-1   52.61%    117.9MiB / 512MiB   299kB / 657kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.92%     169.6MiB / 256MiB   1.17MB / 1.12MB
+08-cpu-bound-backend-backend-1   49.88%    118.1MiB / 512MiB   310kB / 681kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.92%     169.6MiB / 256MiB   1.17MB / 1.12MB [K
+08-cpu-bound-backend-backend-1   49.88%    118.1MiB / 512MiB   310kB / 681kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.92%     169.6MiB / 256MiB   1.17MB / 1.12MB
+08-cpu-bound-backend-backend-1   49.88%    118.1MiB / 512MiB   310kB / 681kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.92%     169.6MiB / 256MiB   1.17MB / 1.12MB [K
+08-cpu-bound-backend-backend-1   49.88%    118.1MiB / 512MiB   310kB / 681kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.53%     169.6MiB / 256MiB   1.21MB / 1.15MB
+08-cpu-bound-backend-backend-1   49.69%    119.4MiB / 512MiB   319kB / 701kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.53%     169.6MiB / 256MiB   1.21MB / 1.15MB [K
+08-cpu-bound-backend-backend-1   49.69%    119.4MiB / 512MiB   319kB / 701kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.53%     169.6MiB / 256MiB   1.21MB / 1.15MB
+08-cpu-bound-backend-backend-1   49.69%    119.4MiB / 512MiB   319kB / 701kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.53%     169.6MiB / 256MiB   1.21MB / 1.15MB [K
+08-cpu-bound-backend-backend-1   49.69%    119.4MiB / 512MiB   319kB / 701kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.78%     169.6MiB / 256MiB   1.24MB / 1.18MB
+08-cpu-bound-backend-backend-1   50.00%    120.3MiB / 512MiB   328kB / 723kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.78%     169.6MiB / 256MiB   1.24MB / 1.18MB [K
+08-cpu-bound-backend-backend-1   50.00%    120.3MiB / 512MiB   328kB / 723kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.78%     169.6MiB / 256MiB   1.24MB / 1.18MB
+08-cpu-bound-backend-backend-1   50.00%    120.3MiB / 512MiB   328kB / 723kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.78%     169.6MiB / 256MiB   1.24MB / 1.18MB [K
+08-cpu-bound-backend-backend-1   50.00%    120.3MiB / 512MiB   328kB / 723kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.45%     169.9MiB / 256MiB   1.28MB / 1.22MB
+08-cpu-bound-backend-backend-1   49.84%    120.4MiB / 512MiB   337kB / 744kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.45%     169.9MiB / 256MiB   1.28MB / 1.22MB [K
+08-cpu-bound-backend-backend-1   49.84%    120.4MiB / 512MiB   337kB / 744kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.45%     169.9MiB / 256MiB   1.28MB / 1.22MB
+08-cpu-bound-backend-backend-1   49.84%    120.4MiB / 512MiB   337kB / 744kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.45%     169.9MiB / 256MiB   1.28MB / 1.22MB [K
+08-cpu-bound-backend-backend-1   49.84%    120.4MiB / 512MiB   337kB / 744kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.74%     169.6MiB / 256MiB   1.33MB / 1.26MB
+08-cpu-bound-backend-backend-1   49.61%    118.9MiB / 512MiB   350kB / 772kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.74%     169.6MiB / 256MiB   1.33MB / 1.26MB [K
+08-cpu-bound-backend-backend-1   49.61%    118.9MiB / 512MiB   350kB / 772kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.74%     169.6MiB / 256MiB   1.33MB / 1.26MB
+08-cpu-bound-backend-backend-1   49.61%    118.9MiB / 512MiB   350kB / 772kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.74%     169.6MiB / 256MiB   1.33MB / 1.26MB [K
+08-cpu-bound-backend-backend-1   49.61%    118.9MiB / 512MiB   350kB / 772kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.58%     169.6MiB / 256MiB   1.37MB / 1.3MB
+08-cpu-bound-backend-backend-1   49.60%    119.2MiB / 512MiB   361kB / 796kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.58%     169.6MiB / 256MiB   1.37MB / 1.3MB [K
+08-cpu-bound-backend-backend-1   49.60%    119.2MiB / 512MiB   361kB / 796kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.58%     169.6MiB / 256MiB   1.37MB / 1.3MB
+08-cpu-bound-backend-backend-1   49.60%    119.2MiB / 512MiB   361kB / 796kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.58%     169.6MiB / 256MiB   1.37MB / 1.3MB [K
+08-cpu-bound-backend-backend-1   49.60%    119.2MiB / 512MiB   361kB / 796kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.69%     169.6MiB / 256MiB   1.41MB / 1.34MB
+08-cpu-bound-backend-backend-1   49.88%    119.1MiB / 512MiB   372kB / 821kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.69%     169.6MiB / 256MiB   1.41MB / 1.34MB [K
+08-cpu-bound-backend-backend-1   49.88%    119.1MiB / 512MiB   372kB / 821kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.69%     169.6MiB / 256MiB   1.41MB / 1.34MB
+08-cpu-bound-backend-backend-1   49.88%    119.1MiB / 512MiB   372kB / 821kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.69%     169.6MiB / 256MiB   1.41MB / 1.34MB [K
+08-cpu-bound-backend-backend-1   49.88%    119.1MiB / 512MiB   372kB / 821kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     3.16%     169.9MiB / 256MiB   1.45MB / 1.39MB
+08-cpu-bound-backend-backend-1   49.58%    119.2MiB / 512MiB   385kB / 848kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     3.16%     169.9MiB / 256MiB   1.45MB / 1.39MB [K
+08-cpu-bound-backend-backend-1   49.58%    119.2MiB / 512MiB   385kB / 848kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     3.16%     169.9MiB / 256MiB   1.45MB / 1.39MB
+08-cpu-bound-backend-backend-1   49.58%    119.2MiB / 512MiB   385kB / 848kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     3.16%     169.9MiB / 256MiB   1.45MB / 1.39MB [K
+08-cpu-bound-backend-backend-1   49.58%    119.2MiB / 512MiB   385kB / 848kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.74%     169.9MiB / 256MiB   1.5MB / 1.43MB
+08-cpu-bound-backend-backend-1   49.76%    119.4MiB / 512MiB   399kB / 875kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.74%     169.9MiB / 256MiB   1.5MB / 1.43MB [K
+08-cpu-bound-backend-backend-1   49.76%    119.4MiB / 512MiB   399kB / 875kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.74%     169.9MiB / 256MiB   1.5MB / 1.43MB
+08-cpu-bound-backend-backend-1   49.76%    119.4MiB / 512MiB   399kB / 875kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.74%     169.9MiB / 256MiB   1.5MB / 1.43MB [K
+08-cpu-bound-backend-backend-1   49.76%    119.4MiB / 512MiB   399kB / 875kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     2.25%     169.6MiB / 256MiB   1.54MB / 1.47MB
+08-cpu-bound-backend-backend-1   49.45%    119.5MiB / 512MiB   412kB / 901kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     2.25%     169.6MiB / 256MiB   1.54MB / 1.47MB [K
+08-cpu-bound-backend-backend-1   49.45%    119.5MiB / 512MiB   412kB / 901kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     2.25%     169.6MiB / 256MiB   1.54MB / 1.47MB
+08-cpu-bound-backend-backend-1   49.45%    119.5MiB / 512MiB   412kB / 901kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     2.25%     169.6MiB / 256MiB   1.54MB / 1.47MB [K
+08-cpu-bound-backend-backend-1   49.45%    119.5MiB / 512MiB   412kB / 901kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.70%     169.6MiB / 256MiB   1.59MB / 1.52MB
+08-cpu-bound-backend-backend-1   49.15%    119.7MiB / 512MiB   425kB / 928kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.70%     169.6MiB / 256MiB   1.59MB / 1.52MB [K
+08-cpu-bound-backend-backend-1   49.15%    119.7MiB / 512MiB   425kB / 928kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.70%     169.6MiB / 256MiB   1.59MB / 1.52MB
+08-cpu-bound-backend-backend-1   49.15%    119.7MiB / 512MiB   425kB / 928kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.70%     169.6MiB / 256MiB   1.59MB / 1.52MB [K
+08-cpu-bound-backend-backend-1   49.15%    119.7MiB / 512MiB   425kB / 928kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.38%     169.9MiB / 256MiB   1.62MB / 1.55MB
+08-cpu-bound-backend-backend-1   52.63%    119.9MiB / 512MiB   433kB / 946kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.38%     169.9MiB / 256MiB   1.62MB / 1.55MB [K
+08-cpu-bound-backend-backend-1   52.63%    119.9MiB / 512MiB   433kB / 946kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.38%     169.9MiB / 256MiB   1.62MB / 1.55MB
+08-cpu-bound-backend-backend-1   52.63%    119.9MiB / 512MiB   433kB / 946kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.38%     169.9MiB / 256MiB   1.62MB / 1.55MB [K
+08-cpu-bound-backend-backend-1   52.63%    119.9MiB / 512MiB   433kB / 946kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.54%     170.1MiB / 256MiB   1.66MB / 1.58MB
+08-cpu-bound-backend-backend-1   51.58%    121.1MiB / 512MiB   443kB / 968kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.54%     170.1MiB / 256MiB   1.66MB / 1.58MB [K
+08-cpu-bound-backend-backend-1   51.58%    121.1MiB / 512MiB   443kB / 968kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.54%     170.1MiB / 256MiB   1.66MB / 1.58MB
+08-cpu-bound-backend-backend-1   51.58%    121.1MiB / 512MiB   443kB / 968kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.54%     170.1MiB / 256MiB   1.66MB / 1.58MB [K
+08-cpu-bound-backend-backend-1   51.58%    121.1MiB / 512MiB   443kB / 968kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.39%     169.7MiB / 256MiB   1.69MB / 1.62MB
+08-cpu-bound-backend-backend-1   49.68%    121.2MiB / 512MiB   453kB / 990kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.39%     169.7MiB / 256MiB   1.69MB / 1.62MB [K
+08-cpu-bound-backend-backend-1   49.68%    121.2MiB / 512MiB   453kB / 990kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.39%     169.7MiB / 256MiB   1.69MB / 1.62MB
+08-cpu-bound-backend-backend-1   49.68%    121.2MiB / 512MiB   453kB / 990kB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.39%     169.7MiB / 256MiB   1.69MB / 1.62MB [K
+08-cpu-bound-backend-backend-1   49.68%    121.2MiB / 512MiB   453kB / 990kB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.85%     169.9MiB / 256MiB   1.73MB / 1.65MB
+08-cpu-bound-backend-backend-1   50.16%    121.2MiB / 512MiB   462kB / 1.01MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.85%     169.9MiB / 256MiB   1.73MB / 1.65MB [K
+08-cpu-bound-backend-backend-1   50.16%    121.2MiB / 512MiB   462kB / 1.01MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.85%     169.9MiB / 256MiB   1.73MB / 1.65MB
+08-cpu-bound-backend-backend-1   50.16%    121.2MiB / 512MiB   462kB / 1.01MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.85%     169.9MiB / 256MiB   1.73MB / 1.65MB [K
+08-cpu-bound-backend-backend-1   50.16%    121.2MiB / 512MiB   462kB / 1.01MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.60%     169.7MiB / 256MiB   1.77MB / 1.69MB
+08-cpu-bound-backend-backend-1   49.85%    121.7MiB / 512MiB   472kB / 1.03MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.60%     169.7MiB / 256MiB   1.77MB / 1.69MB [K
+08-cpu-bound-backend-backend-1   49.85%    121.7MiB / 512MiB   472kB / 1.03MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.60%     169.7MiB / 256MiB   1.77MB / 1.69MB
+08-cpu-bound-backend-backend-1   49.85%    121.7MiB / 512MiB   472kB / 1.03MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.60%     169.7MiB / 256MiB   1.77MB / 1.69MB [K
+08-cpu-bound-backend-backend-1   49.85%    121.7MiB / 512MiB   472kB / 1.03MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.60%     169.9MiB / 256MiB   1.81MB / 1.73MB
+08-cpu-bound-backend-backend-1   49.07%    121.8MiB / 512MiB   482kB / 1.06MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.60%     169.9MiB / 256MiB   1.81MB / 1.73MB [K
+08-cpu-bound-backend-backend-1   49.07%    121.8MiB / 512MiB   482kB / 1.06MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.60%     169.9MiB / 256MiB   1.81MB / 1.73MB
+08-cpu-bound-backend-backend-1   49.07%    121.8MiB / 512MiB   482kB / 1.06MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.60%     169.9MiB / 256MiB   1.81MB / 1.73MB [K
+08-cpu-bound-backend-backend-1   49.07%    121.8MiB / 512MiB   482kB / 1.06MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.71%     169.7MiB / 256MiB   1.85MB / 1.76MB
+08-cpu-bound-backend-backend-1   49.93%    121.8MiB / 512MiB   492kB / 1.08MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.71%     169.7MiB / 256MiB   1.85MB / 1.76MB [K
+08-cpu-bound-backend-backend-1   49.93%    121.8MiB / 512MiB   492kB / 1.08MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.71%     169.7MiB / 256MiB   1.85MB / 1.76MB
+08-cpu-bound-backend-backend-1   49.93%    121.8MiB / 512MiB   492kB / 1.08MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.71%     169.7MiB / 256MiB   1.85MB / 1.76MB [K
+08-cpu-bound-backend-backend-1   49.93%    121.8MiB / 512MiB   492kB / 1.08MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.62%     169.9MiB / 256MiB   1.89MB / 1.81MB
+08-cpu-bound-backend-backend-1   49.81%    121.8MiB / 512MiB   504kB / 1.11MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.62%     169.9MiB / 256MiB   1.89MB / 1.81MB [K
+08-cpu-bound-backend-backend-1   49.81%    121.8MiB / 512MiB   504kB / 1.11MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.62%     169.9MiB / 256MiB   1.89MB / 1.81MB
+08-cpu-bound-backend-backend-1   49.81%    121.8MiB / 512MiB   504kB / 1.11MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.62%     169.9MiB / 256MiB   1.89MB / 1.81MB [K
+08-cpu-bound-backend-backend-1   49.81%    121.8MiB / 512MiB   504kB / 1.11MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.91%     169.6MiB / 256MiB   1.93MB / 1.85MB
+08-cpu-bound-backend-backend-1   49.77%    121.8MiB / 512MiB   515kB / 1.13MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.91%     169.6MiB / 256MiB   1.93MB / 1.85MB [K
+08-cpu-bound-backend-backend-1   49.77%    121.8MiB / 512MiB   515kB / 1.13MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.91%     169.6MiB / 256MiB   1.93MB / 1.85MB
+08-cpu-bound-backend-backend-1   49.77%    121.8MiB / 512MiB   515kB / 1.13MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.91%     169.6MiB / 256MiB   1.93MB / 1.85MB [K
+08-cpu-bound-backend-backend-1   49.77%    121.8MiB / 512MiB   515kB / 1.13MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.70%     169.9MiB / 256MiB   1.98MB / 1.89MB
+08-cpu-bound-backend-backend-1   49.62%    123.4MiB / 512MiB   526kB / 1.16MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.70%     169.9MiB / 256MiB   1.98MB / 1.89MB [K
+08-cpu-bound-backend-backend-1   49.62%    123.4MiB / 512MiB   526kB / 1.16MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.70%     169.9MiB / 256MiB   1.98MB / 1.89MB
+08-cpu-bound-backend-backend-1   49.62%    123.4MiB / 512MiB   526kB / 1.16MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.70%     169.9MiB / 256MiB   1.98MB / 1.89MB [K
+08-cpu-bound-backend-backend-1   49.62%    123.4MiB / 512MiB   526kB / 1.16MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.73%     170.1MiB / 256MiB   2.02MB / 1.93MB
+08-cpu-bound-backend-backend-1   49.62%    123.4MiB / 512MiB   537kB / 1.18MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.73%     170.1MiB / 256MiB   2.02MB / 1.93MB [K
+08-cpu-bound-backend-backend-1   49.62%    123.4MiB / 512MiB   537kB / 1.18MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.73%     170.1MiB / 256MiB   2.02MB / 1.93MB
+08-cpu-bound-backend-backend-1   49.62%    123.4MiB / 512MiB   537kB / 1.18MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.73%     170.1MiB / 256MiB   2.02MB / 1.93MB [K
+08-cpu-bound-backend-backend-1   49.62%    123.4MiB / 512MiB   537kB / 1.18MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.55%     169.9MiB / 256MiB   2.06MB / 1.96MB
+08-cpu-bound-backend-backend-1   49.64%    123.7MiB / 512MiB   547kB / 1.2MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.55%     169.9MiB / 256MiB   2.06MB / 1.96MB [K
+08-cpu-bound-backend-backend-1   49.64%    123.7MiB / 512MiB   547kB / 1.2MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.55%     169.9MiB / 256MiB   2.06MB / 1.96MB
+08-cpu-bound-backend-backend-1   49.64%    123.7MiB / 512MiB   547kB / 1.2MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.55%     169.9MiB / 256MiB   2.06MB / 1.96MB [K
+08-cpu-bound-backend-backend-1   49.64%    123.7MiB / 512MiB   547kB / 1.2MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.69%     169.9MiB / 256MiB   2.1MB / 2.01MB
+08-cpu-bound-backend-backend-1   49.71%    124.8MiB / 512MiB   558kB / 1.23MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.69%     169.9MiB / 256MiB   2.1MB / 2.01MB [K
+08-cpu-bound-backend-backend-1   49.71%    124.8MiB / 512MiB   558kB / 1.23MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.69%     169.9MiB / 256MiB   2.1MB / 2.01MB
+08-cpu-bound-backend-backend-1   49.71%    124.8MiB / 512MiB   558kB / 1.23MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.69%     169.9MiB / 256MiB   2.1MB / 2.01MB [K
+08-cpu-bound-backend-backend-1   49.71%    124.8MiB / 512MiB   558kB / 1.23MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     5.84%     170.4MiB / 256MiB   2.14MB / 2.04MB
+08-cpu-bound-backend-backend-1   53.91%    123.8MiB / 512MiB   567kB / 1.25MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     5.84%     170.4MiB / 256MiB   2.14MB / 2.04MB [K
+08-cpu-bound-backend-backend-1   53.91%    123.8MiB / 512MiB   567kB / 1.25MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     5.84%     170.4MiB / 256MiB   2.14MB / 2.04MB
+08-cpu-bound-backend-backend-1   53.91%    123.8MiB / 512MiB   567kB / 1.25MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     5.84%     170.4MiB / 256MiB   2.14MB / 2.04MB [K
+08-cpu-bound-backend-backend-1   53.91%    123.8MiB / 512MiB   567kB / 1.25MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.55%     170.1MiB / 256MiB   2.18MB / 2.08MB
+08-cpu-bound-backend-backend-1   51.05%    125.1MiB / 512MiB   578kB / 1.28MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.55%     170.1MiB / 256MiB   2.18MB / 2.08MB [K
+08-cpu-bound-backend-backend-1   51.05%    125.1MiB / 512MiB   578kB / 1.28MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.55%     170.1MiB / 256MiB   2.18MB / 2.08MB
+08-cpu-bound-backend-backend-1   51.05%    125.1MiB / 512MiB   578kB / 1.28MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.55%     170.1MiB / 256MiB   2.18MB / 2.08MB [K
+08-cpu-bound-backend-backend-1   51.05%    125.1MiB / 512MiB   578kB / 1.28MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.55%     170.1MiB / 256MiB   2.18MB / 2.08MB
+08-cpu-bound-backend-backend-1   49.94%    125.4MiB / 512MiB   589kB / 1.3MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.55%     170.1MiB / 256MiB   2.18MB / 2.08MB [K
+08-cpu-bound-backend-backend-1   49.94%    125.4MiB / 512MiB   589kB / 1.3MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.49%     169.6MiB / 256MiB   2.22MB / 2.12MB
+08-cpu-bound-backend-backend-1   49.94%    125.4MiB / 512MiB   589kB / 1.3MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.49%     169.6MiB / 256MiB   2.22MB / 2.12MB [K
+08-cpu-bound-backend-backend-1   49.94%    125.4MiB / 512MiB   589kB / 1.3MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.49%     169.6MiB / 256MiB   2.22MB / 2.12MB
+08-cpu-bound-backend-backend-1   49.94%    125.4MiB / 512MiB   589kB / 1.3MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.49%     169.6MiB / 256MiB   2.22MB / 2.12MB [K
+08-cpu-bound-backend-backend-1   49.94%    125.4MiB / 512MiB   589kB / 1.3MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.84%     170.1MiB / 256MiB   2.27MB / 2.17MB
+08-cpu-bound-backend-backend-1   49.65%    127MiB / 512MiB     602kB / 1.33MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.84%     170.1MiB / 256MiB   2.27MB / 2.17MB [K
+08-cpu-bound-backend-backend-1   49.65%    127MiB / 512MiB     602kB / 1.33MB [K
+ [K
+[J[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O
+08-cpu-bound-backend-nginx-1     1.84%     170.1MiB / 256MiB   2.27MB / 2.17MB
+08-cpu-bound-backend-backend-1   49.65%    127MiB / 512MiB     602kB / 1.33MB
+[HNAME                             CPU %     MEM USAGE / LIMIT   NET I/O [K
+08-cpu-bound-backend-nginx-1     1.84%     170.1MiB / 256MiB   2.27MB / 2.17MB [K
+08-cpu-bound-backend-backend-1   49.65%    127MiB / 512MiB     602kB / 1.33MB [K
+ [K
+[J
