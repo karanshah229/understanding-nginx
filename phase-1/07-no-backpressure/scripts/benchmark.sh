@@ -7,8 +7,8 @@ LOG_DIR="measurements"
 
 # Benchmark Configuration
 # Note: Different experiments will override these per step
-DEFAULT_DURATION=15
-DEFAULT_CONCURRENCY=200
+DURATION=60
+CONCURRENCY=2000
 
 mkdir -p $LOG_DIR
 
@@ -18,7 +18,7 @@ mkdir -p $LOG_DIR
 > $LOG_DIR/autocannon_results.log
 
 echo "------------------------------------------------------------"
-echo "Experiment 6: Slow Backend (Backpressure Propagation)"
+echo "Experiment 7: Remove Backpressure Controls"
 echo "------------------------------------------------------------"
 
 # --- Background Monitoring ---
@@ -51,14 +51,9 @@ trap cleanup EXIT
 
 # --- Benchmark Phases ---
 
-echo "Step 1: Baseline (Low Concurrency, 10 connections)"
-npx autocannon -c 10 -d 10 --no-progress $TARGET_URL 2>&1 | tee -a $LOG_DIR/autocannon_results.log
-
-echo "Step 2: SATURATION (High Concurrency, 200 connections)"
-npx autocannon -c 200 -d 15 --no-progress $TARGET_URL 2>&1 | tee -a $LOG_DIR/autocannon_results.log
-
-echo "Step 3: BREAKING POINT (1500 connections)"
-npx autocannon -c 1500 -d 15 --no-progress $TARGET_URL 2>&1 | tee -a $LOG_DIR/autocannon_results.log
+echo "Step 1: BREAKING POINT (High Concurrency, $CONCURRENCY connections)"
+# Redirecting stderr to stdout (2>&1) and disabling progress bar for clean logs
+npx autocannon -c $CONCURRENCY -d $DURATION --no-progress $TARGET_URL 2>&1 | tee -a $LOG_DIR/autocannon_results.log
 
 echo "------------------------------------------------------------"
 echo "Benchmark Complete."
