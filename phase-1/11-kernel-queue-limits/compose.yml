@@ -1,0 +1,32 @@
+services:
+    nginx:
+        container_name: nginx
+        build: ./nginx
+        ports:
+            - "8080:8080"
+        depends_on:
+            - backend
+        restart: always
+        cpus: 1
+        mem_limit: 256m
+        # sysctls: net.core.somaxconn=5 sets the maximum number of connections waiting for accept() 
+        # at the kernel level for ANY listening socket in this container.
+        sysctls:
+            - net.core.somaxconn=5
+        networks:
+            - kernel-queue-net
+
+    backend:
+        container_name: backend
+        build: ./backend
+        ports:
+            - "8081:8080"
+        cpus: 0.5
+        mem_limit: 512m
+        restart: always
+        networks:
+            - kernel-queue-net
+
+networks:
+    kernel-queue-net:
+        driver: bridge
