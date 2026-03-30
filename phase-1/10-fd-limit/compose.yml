@@ -1,0 +1,32 @@
+services:
+    nginx:
+        container_name: nginx
+        build: ./nginx
+        ports:
+            - "8080:8080"
+        depends_on:
+            - backend
+        restart: always
+        cpus: 1
+        mem_limit: 256m
+        ulimits:
+            nofile:
+                soft: 128
+                hard: 128
+        networks:
+            - fd-limit-net
+
+    backend:
+        container_name: backend
+        build: ./backend
+        ports:
+            - "8081:8080"
+        cpus: 0.5
+        mem_limit: 512m
+        restart: always
+        networks:
+            - fd-limit-net
+
+networks:
+    fd-limit-net:
+        driver: bridge

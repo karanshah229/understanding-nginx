@@ -1,0 +1,15 @@
+--- 20:49:59 ---
+Active connections: 3 
+server accepts handled requests
+ 3 3 3 
+Reading: 0 Writing: 1 Waiting: 2 
+--- 20:50:00 ---
+Active connections: 61 
+server accepts handled requests
+ 218 218 6493 
+Reading: 0 Writing: 58 Waiting: 3 
+--- 20:50:16 ---
+Active connections: 4 
+server accepts handled requests
+ 505 505 26239 
+Reading: 0 Writing: 1 Waiting: 3 
