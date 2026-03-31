@@ -1,0 +1,325 @@
+--- 12:57:12 ---
+Active connections: 1 
+server accepts handled requests
+ 134 134 15752 
+Reading: 0 Writing: 1 Waiting: 0 
+--- 12:57:13 ---
+Active connections: 101 
+server accepts handled requests
+ 235 235 16036 
+Reading: 0 Writing: 101 Waiting: 0 
+--- 12:57:14 ---
+Active connections: 101 
+server accepts handled requests
+ 236 236 17537 
+Reading: 0 Writing: 10 Waiting: 91 
+--- 12:57:15 ---
+Active connections: 101 
+server accepts handled requests
+ 237 237 18755 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:16 ---
+Active connections: 101 
+server accepts handled requests
+ 238 238 19756 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:17 ---
+Active connections: 101 
+server accepts handled requests
+ 239 239 20757 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:18 ---
+Active connections: 101 
+server accepts handled requests
+ 240 240 21758 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:19 ---
+Active connections: 101 
+server accepts handled requests
+ 241 241 22759 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:20 ---
+Active connections: 101 
+server accepts handled requests
+ 242 242 23760 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:21 ---
+Active connections: 101 
+server accepts handled requests
+ 243 243 24761 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:22 ---
+Active connections: 101 
+server accepts handled requests
+ 244 244 25762 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:24 ---
+Active connections: 101 
+server accepts handled requests
+ 245 245 26763 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:25 ---
+Active connections: 101 
+server accepts handled requests
+ 246 246 27764 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:26 ---
+Active connections: 101 
+server accepts handled requests
+ 247 247 28765 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:27 ---
+Active connections: 101 
+server accepts handled requests
+ 248 248 29766 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:28 ---
+Active connections: 101 
+server accepts handled requests
+ 249 249 30767 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:29 ---
+Active connections: 101 
+server accepts handled requests
+ 250 250 31768 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:30 ---
+Active connections: 101 
+server accepts handled requests
+ 251 251 32769 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:31 ---
+Active connections: 101 
+server accepts handled requests
+ 252 252 33770 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:32 ---
+Active connections: 101 
+server accepts handled requests
+ 253 253 34771 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:33 ---
+Active connections: 101 
+server accepts handled requests
+ 254 254 35772 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:34 ---
+Active connections: 101 
+server accepts handled requests
+ 255 255 37211 
+Reading: 0 Writing: 38 Waiting: 60 
+--- 12:57:35 ---
+Active connections: 101 
+server accepts handled requests
+ 256 256 38774 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:36 ---
+Active connections: 101 
+server accepts handled requests
+ 257 257 39775 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:37 ---
+Active connections: 101 
+server accepts handled requests
+ 258 258 40776 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:38 ---
+Active connections: 101 
+server accepts handled requests
+ 259 259 41777 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:39 ---
+Active connections: 101 
+server accepts handled requests
+ 260 260 42778 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:40 ---
+Active connections: 101 
+server accepts handled requests
+ 261 261 43779 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:41 ---
+Active connections: 101 
+server accepts handled requests
+ 262 262 44780 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:42 ---
+Active connections: 101 
+server accepts handled requests
+ 263 263 45781 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:43 ---
+Active connections: 1 
+server accepts handled requests
+ 264 264 46257 
+Reading: 0 Writing: 1 Waiting: 0 
+--- 12:57:44 ---
+Active connections: 1 
+server accepts handled requests
+ 265 265 46258 
+Reading: 0 Writing: 1 Waiting: 0 
+--- 12:57:45 ---
+Active connections: 1 
+server accepts handled requests
+ 266 266 46259 
+Reading: 0 Writing: 1 Waiting: 0 
+--- 12:57:46 ---
+Active connections: 1 
+server accepts handled requests
+ 267 267 46260 
+Reading: 0 Writing: 1 Waiting: 0 
+--- 12:57:47 ---
+Active connections: 1 
+server accepts handled requests
+ 268 268 46261 
+Reading: 0 Writing: 1 Waiting: 0 
+--- 12:57:48 ---
+Active connections: 1 
+server accepts handled requests
+ 269 269 46262 
+Reading: 0 Writing: 1 Waiting: 0 
+--- 12:57:49 ---
+Active connections: 101 
+server accepts handled requests
+ 370 370 47263 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:50 ---
+Active connections: 101 
+server accepts handled requests
+ 371 371 48264 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:52 ---
+Active connections: 101 
+server accepts handled requests
+ 372 372 49343 
+Reading: 0 Writing: 7 Waiting: 94 
+--- 12:57:53 ---
+Active connections: 101 
+server accepts handled requests
+ 373 373 51021 
+Reading: 0 Writing: 63 Waiting: 38 
+--- 12:57:54 ---
+Active connections: 101 
+server accepts handled requests
+ 374 374 51872 
+Reading: 0 Writing: 98 Waiting: 3 
+--- 12:57:55 ---
+Active connections: 101 
+server accepts handled requests
+ 375 375 53268 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:56 ---
+Active connections: 101 
+server accepts handled requests
+ 376 376 54269 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:57 ---
+Active connections: 101 
+server accepts handled requests
+ 377 377 55270 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:58 ---
+Active connections: 101 
+server accepts handled requests
+ 378 378 56271 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:57:59 ---
+Active connections: 101 
+server accepts handled requests
+ 379 379 57272 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:00 ---
+Active connections: 101 
+server accepts handled requests
+ 380 380 58273 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:01 ---
+Active connections: 101 
+server accepts handled requests
+ 381 381 59274 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:02 ---
+Active connections: 101 
+server accepts handled requests
+ 382 382 60275 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:03 ---
+Active connections: 101 
+server accepts handled requests
+ 383 383 61276 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:04 ---
+Active connections: 101 
+server accepts handled requests
+ 384 384 62277 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:05 ---
+Active connections: 101 
+server accepts handled requests
+ 385 385 63278 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:06 ---
+Active connections: 101 
+server accepts handled requests
+ 386 386 64279 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:07 ---
+Active connections: 101 
+server accepts handled requests
+ 387 387 65280 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:08 ---
+Active connections: 101 
+server accepts handled requests
+ 388 388 66281 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:09 ---
+Active connections: 101 
+server accepts handled requests
+ 389 389 67282 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:10 ---
+Active connections: 101 
+server accepts handled requests
+ 390 390 68283 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:11 ---
+Active connections: 101 
+server accepts handled requests
+ 391 391 69284 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:12 ---
+Active connections: 101 
+server accepts handled requests
+ 392 392 70285 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:13 ---
+Active connections: 101 
+server accepts handled requests
+ 393 393 71286 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:14 ---
+Active connections: 101 
+server accepts handled requests
+ 394 394 72287 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:15 ---
+Active connections: 101 
+server accepts handled requests
+ 395 395 73288 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:16 ---
+Active connections: 101 
+server accepts handled requests
+ 396 396 74289 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:17 ---
+Active connections: 101 
+server accepts handled requests
+ 397 397 75290 
+Reading: 0 Writing: 1 Waiting: 100 
+--- 12:58:18 ---
+Active connections: 101 
+server accepts handled requests
+ 398 398 76291 
+Reading: 0 Writing: 1 Waiting: 100 
