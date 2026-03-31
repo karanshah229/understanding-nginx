@@ -1,0 +1,383 @@
+--- 01:01:17 ---
+Total FDs across        7 Workers: 90
+--- 01:01:18 ---
+Total FDs across        6 Workers: 90
+--- 01:01:20 ---
+Total FDs across        6 Workers: 90
+--- 01:01:21 ---
+Total FDs across        6 Workers: 18002
+--- 01:01:23 ---
+Total FDs across        6 Workers: 59211
+--- 01:01:25 ---
+Total FDs across        6 Workers: 61903
+--- 01:01:28 ---
+Total FDs across        6 Workers: 64963
+--- 01:01:32 ---
+Total FDs across        6 Workers: 66789
+--- 01:01:35 ---
+Total FDs across        6 Workers: 67697
+--- 01:01:37 ---
+Total FDs across        6 Workers: 68724
+--- 01:01:40 ---
+Total FDs across        6 Workers: 66846
+--- 01:01:43 ---
+Total FDs across        6 Workers: 65761
+--- 01:01:45 ---
+Total FDs across        6 Workers: 65294
+--- 01:01:47 ---
+Total FDs across        6 Workers: 64508
+--- 01:01:50 ---
+Total FDs across        6 Workers: 47126
+--- 01:01:52 ---
+Total FDs across        6 Workers: 16736
+--- 01:01:54 ---
+Total FDs across        6 Workers: 21133
+--- 01:01:56 ---
+Total FDs across        6 Workers: 28458
+--- 01:01:58 ---
+Total FDs across        6 Workers: 27081
+--- 01:01:59 ---
+Total FDs across        6 Workers: 33075
+--- 01:02:01 ---
+Total FDs across        6 Workers: 36157
+--- 01:02:03 ---
+Total FDs across        6 Workers: 37432
+--- 01:02:07 ---
+Total FDs across        6 Workers: 37094
+--- 01:02:09 ---
+Total FDs across        6 Workers: 35295
+--- 01:02:11 ---
+Total FDs across        6 Workers: 35874
+--- 01:02:13 ---
+Total FDs across        6 Workers: 34068
+--- 01:02:15 ---
+Total FDs across        6 Workers: 32525
+--- 01:02:18 ---
+Total FDs across        6 Workers: 29838
+--- 01:02:20 ---
+Total FDs across        6 Workers: 27156
+--- 01:02:22 ---
+Total FDs across        6 Workers: 26734
+--- 01:02:25 ---
+Total FDs across        6 Workers: 26202
+--- 01:02:27 ---
+Total FDs across        6 Workers: 26190
+--- 01:02:29 ---
+Total FDs across        6 Workers: 25695
+--- 01:02:31 ---
+Total FDs across        6 Workers: 23345
+--- 01:02:33 ---
+Total FDs across        6 Workers: 23638
+--- 01:02:35 ---
+Total FDs across        6 Workers: 29446
+--- 01:02:37 ---
+Total FDs across        6 Workers: 34883
+--- 01:02:40 ---
+Total FDs across        6 Workers: 37891
+--- 01:02:42 ---
+Total FDs across        6 Workers: 37179
+--- 01:02:44 ---
+Total FDs across        6 Workers: 35637
+--- 01:02:46 ---
+Total FDs across        6 Workers: 35736
+--- 01:02:48 ---
+Total FDs across        6 Workers: 34666
+--- 01:02:51 ---
+Total FDs across        6 Workers: 34513
+--- 01:02:53 ---
+Total FDs across        6 Workers: 32556
+--- 01:02:55 ---
+Total FDs across        6 Workers: 38428
+--- 01:02:58 ---
+Total FDs across        6 Workers: 35944
+--- 01:03:01 ---
+Total FDs across        6 Workers: 37387
+--- 01:03:03 ---
+Total FDs across        6 Workers: 37993
+--- 01:03:05 ---
+Total FDs across        6 Workers: 37750
+--- 01:03:07 ---
+Total FDs across        6 Workers: 45201
+--- 01:03:10 ---
+Total FDs across        6 Workers: 43817
+--- 01:03:12 ---
+Total FDs across        6 Workers: 43533
+--- 01:03:14 ---
+Total FDs across        6 Workers: 42687
+--- 01:03:16 ---
+Total FDs across        6 Workers: 42099
+--- 01:03:18 ---
+Total FDs across        6 Workers: 41866
+--- 01:03:21 ---
+Total FDs across        6 Workers: 41136
+--- 01:03:23 ---
+Total FDs across        6 Workers: 38674
+--- 01:03:25 ---
+Total FDs across        6 Workers: 39858
+--- 01:03:27 ---
+Total FDs across        6 Workers: 43280
+--- 01:03:29 ---
+Total FDs across        6 Workers: 43925
+--- 01:03:32 ---
+Total FDs across        6 Workers: 50427
+--- 01:03:34 ---
+Total FDs across        6 Workers: 52412
+--- 01:03:36 ---
+Total FDs across        6 Workers: 52731
+--- 01:03:39 ---
+Total FDs across        6 Workers: 55468
+--- 01:03:41 ---
+Total FDs across        6 Workers: 53320
+--- 01:03:43 ---
+Total FDs across        6 Workers: 44286
+--- 01:03:46 ---
+Total FDs across        6 Workers: 44316
+--- 01:03:48 ---
+Total FDs across        6 Workers: 44536
+--- 01:03:50 ---
+Total FDs across        6 Workers: 44705
+--- 01:03:52 ---
+Total FDs across        6 Workers: 46689
+--- 01:03:54 ---
+Total FDs across        6 Workers: 39497
+--- 01:03:56 ---
+Total FDs across        6 Workers: 43609
+--- 01:03:59 ---
+Total FDs across        6 Workers: 46292
+--- 01:04:02 ---
+Total FDs across        6 Workers: 52323
+--- 01:04:04 ---
+Total FDs across        6 Workers: 51253
+--- 01:04:08 ---
+Total FDs across        6 Workers: 54128
+--- 01:04:10 ---
+Total FDs across        6 Workers: 53577
+--- 01:04:12 ---
+Total FDs across        6 Workers: 55040
+--- 01:04:15 ---
+Total FDs across        6 Workers: 50311
+--- 01:04:17 ---
+Total FDs across        6 Workers: 52416
+--- 01:04:19 ---
+Total FDs across        6 Workers: 54846
+--- 01:04:21 ---
+Total FDs across        6 Workers: 55882
+--- 01:04:24 ---
+Total FDs across        6 Workers: 58290
+--- 01:04:27 ---
+Total FDs across        6 Workers: 58367
+--- 01:04:29 ---
+Total FDs across        6 Workers: 57129
+--- 01:04:32 ---
+Total FDs across        6 Workers: 53324
+--- 01:04:34 ---
+Total FDs across        6 Workers: 50156
+--- 01:04:36 ---
+Total FDs across        6 Workers: 49513
+--- 01:04:39 ---
+Total FDs across        6 Workers: 53720
+--- 01:04:42 ---
+Total FDs across        6 Workers: 50193
+--- 01:04:44 ---
+Total FDs across        6 Workers: 47056
+--- 01:04:46 ---
+Total FDs across        6 Workers: 49855
+--- 01:04:48 ---
+Total FDs across        6 Workers: 49942
+--- 01:04:51 ---
+Total FDs across        6 Workers: 51306
+--- 01:04:53 ---
+Total FDs across        6 Workers: 54423
+--- 01:04:56 ---
+Total FDs across        6 Workers: 54334
+--- 01:04:59 ---
+Total FDs across        6 Workers: 56410
+--- 01:05:02 ---
+Total FDs across        6 Workers: 50367
+--- 01:05:05 ---
+Total FDs across        6 Workers: 49253
+--- 01:05:09 ---
+Total FDs across        6 Workers: 41509
+--- 01:05:11 ---
+Total FDs across        6 Workers: 36716
+--- 01:05:13 ---
+Total FDs across        6 Workers: 34317
+--- 01:05:16 ---
+Total FDs across        6 Workers: 42465
+--- 01:05:18 ---
+Total FDs across        6 Workers: 44211
+--- 01:05:21 ---
+Total FDs across        6 Workers: 49345
+--- 01:05:23 ---
+Total FDs across        6 Workers: 48780
+--- 01:05:26 ---
+Total FDs across        6 Workers: 47069
+--- 01:05:29 ---
+Total FDs across        6 Workers: 47189
+--- 01:05:31 ---
+Total FDs across        6 Workers: 46999
+--- 01:05:34 ---
+Total FDs across        6 Workers: 47662
+--- 01:05:36 ---
+Total FDs across        6 Workers: 46965
+--- 01:05:38 ---
+Total FDs across        6 Workers: 46107
+--- 01:05:41 ---
+Total FDs across        6 Workers: 45857
+--- 01:05:43 ---
+Total FDs across        6 Workers: 49834
+--- 01:05:45 ---
+Total FDs across        6 Workers: 46628
+--- 01:05:48 ---
+Total FDs across        7 Workers: 48767
+--- 01:05:51 ---
+Total FDs across        6 Workers: 51471
+--- 01:05:54 ---
+Total FDs across        6 Workers: 51387
+--- 01:05:56 ---
+Total FDs across        6 Workers: 49550
+--- 01:05:59 ---
+Total FDs across        6 Workers: 49133
+--- 01:06:02 ---
+Total FDs across        6 Workers: 49012
+--- 01:06:05 ---
+Total FDs across        6 Workers: 47093
+--- 01:06:07 ---
+Total FDs across        6 Workers: 43238
+--- 01:06:10 ---
+Total FDs across        6 Workers: 45062
+--- 01:06:12 ---
+Total FDs across        6 Workers: 48292
+--- 01:06:15 ---
+Total FDs across        6 Workers: 51440
+--- 01:06:17 ---
+Total FDs across        6 Workers: 49661
+--- 01:06:21 ---
+Total FDs across        6 Workers: 47815
+--- 01:06:23 ---
+Total FDs across        6 Workers: 45380
+--- 01:06:26 ---
+Total FDs across        6 Workers: 39347
+--- 01:06:28 ---
+Total FDs across        6 Workers: 38944
+--- 01:06:31 ---
+Total FDs across        6 Workers: 35659
+--- 01:06:33 ---
+Total FDs across        6 Workers: 31367
+--- 01:06:35 ---
+Total FDs across        6 Workers: 36653
+--- 01:06:37 ---
+Total FDs across        6 Workers: 39187
+--- 01:06:40 ---
+Total FDs across        6 Workers: 40437
+--- 01:06:42 ---
+Total FDs across        6 Workers: 39173
+--- 01:06:44 ---
+Total FDs across        6 Workers: 37292
+--- 01:06:47 ---
+Total FDs across        6 Workers: 32285
+--- 01:06:49 ---
+Total FDs across        6 Workers: 31331
+--- 01:06:51 ---
+Total FDs across        6 Workers: 29264
+--- 01:06:54 ---
+Total FDs across        6 Workers: 27380
+--- 01:06:56 ---
+Total FDs across        6 Workers: 26245
+--- 01:06:59 ---
+Total FDs across        6 Workers: 24606
+--- 01:07:01 ---
+Total FDs across        6 Workers: 23573
+--- 01:07:03 ---
+Total FDs across        6 Workers: 31004
+--- 01:07:06 ---
+Total FDs across        6 Workers: 31845
+--- 01:07:08 ---
+Total FDs across        6 Workers: 31746
+--- 01:07:10 ---
+Total FDs across        6 Workers: 31434
+--- 01:07:12 ---
+Total FDs across        6 Workers: 33598
+--- 01:07:14 ---
+Total FDs across        6 Workers: 33095
+--- 01:07:17 ---
+Total FDs across        6 Workers: 29689
+--- 01:07:20 ---
+Total FDs across        6 Workers: 25399
+--- 01:07:22 ---
+Total FDs across        6 Workers: 28559
+--- 01:07:24 ---
+Total FDs across        6 Workers: 33439
+--- 01:07:26 ---
+Total FDs across        6 Workers: 33361
+--- 01:07:28 ---
+Total FDs across        6 Workers: 31454
+--- 01:07:31 ---
+Total FDs across        6 Workers: 30607
+--- 01:07:33 ---
+Total FDs across        6 Workers: 31696
+--- 01:07:35 ---
+Total FDs across        6 Workers: 30245
+--- 01:07:38 ---
+Total FDs across        6 Workers: 27238
+--- 01:07:40 ---
+Total FDs across        6 Workers: 27055
+--- 01:07:42 ---
+Total FDs across        6 Workers: 26109
+--- 01:07:45 ---
+Total FDs across        6 Workers: 24746
+--- 01:07:48 ---
+Total FDs across        6 Workers: 20290
+--- 01:07:50 ---
+Total FDs across        6 Workers: 25386
+--- 01:07:52 ---
+Total FDs across        6 Workers: 26251
+--- 01:07:54 ---
+Total FDs across        6 Workers: 27543
+--- 01:07:56 ---
+Total FDs across        6 Workers: 28043
+--- 01:07:58 ---
+Total FDs across        6 Workers: 33398
+--- 01:08:00 ---
+Total FDs across        6 Workers: 34399
+--- 01:08:02 ---
+Total FDs across        6 Workers: 35415
+--- 01:08:03 ---
+Total FDs across        6 Workers: 35844
+--- 01:08:06 ---
+Total FDs across        6 Workers: 36863
+--- 01:08:09 ---
+Total FDs across        6 Workers: 36825
+--- 01:08:11 ---
+Total FDs across        6 Workers: 35441
+--- 01:08:13 ---
+Total FDs across        6 Workers: 38652
+--- 01:08:15 ---
+Total FDs across        6 Workers: 41737
+--- 01:08:17 ---
+Total FDs across        6 Workers: 41986
+--- 01:08:19 ---
+Total FDs across        6 Workers: 41160
+--- 01:08:22 ---
+Total FDs across        6 Workers: 39434
+--- 01:08:24 ---
+Total FDs across        6 Workers: 36702
+--- 01:08:27 ---
+Total FDs across        6 Workers: 35398
+--- 01:08:29 ---
+Total FDs across        6 Workers: 34428
+--- 01:08:32 ---
+Total FDs across        6 Workers: 30349
+--- 01:08:34 ---
+Total FDs across        6 Workers: 31042
+--- 01:08:36 ---
+Total FDs across        6 Workers: 29696
+--- 01:08:38 ---
+Total FDs across        6 Workers: 28040
+--- 01:08:41 ---
+Total FDs across        6 Workers: 35049
+--- 01:08:43 ---
+Total FDs across        6 Workers: 36102
+--- 01:08:45 ---
+Total FDs across        6 Workers: 37967
+--- 01:08:48 ---
