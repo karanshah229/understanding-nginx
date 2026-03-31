@@ -1,0 +1,235 @@
+--- 13:39:46 ---
+Active connections: 7 
+server accepts handled requests
+ 8 8 9 
+Reading: 0 Writing: 1 Waiting: 6 
+--- 13:39:47 ---
+Active connections: 60 
+server accepts handled requests
+ 62 62 458 
+Reading: 0 Writing: 54 Waiting: 6 
+--- 13:39:48 ---
+Active connections: 82 
+server accepts handled requests
+ 85 85 1309 
+Reading: 0 Writing: 76 Waiting: 6 
+--- 13:39:50 ---
+Active connections: 83 
+server accepts handled requests
+ 87 87 2683 
+Reading: 0 Writing: 76 Waiting: 7 
+--- 13:39:51 ---
+Active connections: 105 
+server accepts handled requests
+ 110 110 4462 
+Reading: 0 Writing: 99 Waiting: 6 
+--- 13:39:52 ---
+Active connections: 105 
+server accepts handled requests
+ 111 111 6574 
+Reading: 0 Writing: 99 Waiting: 6 
+--- 13:39:53 ---
+Active connections: 105 
+server accepts handled requests
+ 112 112 11153 
+Reading: 0 Writing: 99 Waiting: 6 
+--- 13:39:54 ---
+Active connections: 105 
+server accepts handled requests
+ 113 113 17858 
+Reading: 0 Writing: 99 Waiting: 6 
+--- 13:39:55 ---
+Active connections: 105 
+server accepts handled requests
+ 114 114 26993 
+Reading: 0 Writing: 44 Waiting: 60 
+--- 13:39:56 ---
+Active connections: 107 
+server accepts handled requests
+ 117 117 37801 
+Reading: 0 Writing: 48 Waiting: 59 
+--- 13:39:58 ---
+Active connections: 107 
+server accepts handled requests
+ 118 118 47131 
+Reading: 1 Writing: 31 Waiting: 75 
+--- 13:39:59 ---
+Active connections: 107 
+server accepts handled requests
+ 119 119 57764 
+Reading: 0 Writing: 25 Waiting: 82 
+--- 13:40:00 ---
+Active connections: 107 
+server accepts handled requests
+ 120 120 69144 
+Reading: 0 Writing: 77 Waiting: 30 
+--- 13:40:01 ---
+Active connections: 107 
+server accepts handled requests
+ 121 121 79879 
+Reading: 0 Writing: 56 Waiting: 50 
+--- 13:40:02 ---
+Active connections: 107 
+server accepts handled requests
+ 122 122 91352 
+Reading: 0 Writing: 8 Waiting: 96 
+--- 13:40:03 ---
+Active connections: 103 
+server accepts handled requests
+ 199 199 101465 
+Reading: 0 Writing: 54 Waiting: 49 
+--- 13:40:04 ---
+Active connections: 107 
+server accepts handled requests
+ 222 222 111742 
+Reading: 0 Writing: 58 Waiting: 48 
+--- 13:40:05 ---
+Active connections: 107 
+server accepts handled requests
+ 223 223 123062 
+Reading: 1 Writing: 45 Waiting: 59 
+--- 13:40:07 ---
+Active connections: 107 
+server accepts handled requests
+ 226 226 134102 
+Reading: 0 Writing: 67 Waiting: 37 
+--- 13:40:08 ---
+Active connections: 96 
+server accepts handled requests
+ 316 316 144557 
+Reading: 0 Writing: 13 Waiting: 82 
+--- 13:40:09 ---
+Active connections: 102 
+server accepts handled requests
+ 323 323 161978 
+Reading: 0 Writing: 14 Waiting: 87 
+--- 13:40:10 ---
+Active connections: 103 
+server accepts handled requests
+ 325 325 177623 
+Reading: 1 Writing: 14 Waiting: 87 
+--- 13:40:11 ---
+Active connections: 107 
+server accepts handled requests
+ 330 330 195240 
+Reading: 0 Writing: 14 Waiting: 92 
+--- 13:40:13 ---
+Active connections: 107 
+server accepts handled requests
+ 332 332 212261 
+Reading: 0 Writing: 12 Waiting: 94 
+--- 13:40:14 ---
+Active connections: 107 
+server accepts handled requests
+ 381 381 229456 
+Reading: 1 Writing: 14 Waiting: 91 
+--- 13:40:15 ---
+Active connections: 107 
+server accepts handled requests
+ 416 416 248104 
+Reading: 0 Writing: 14 Waiting: 93 
+--- 13:40:16 ---
+Active connections: 107 
+server accepts handled requests
+ 429 429 269971 
+Reading: 0 Writing: 14 Waiting: 93 
+--- 13:40:17 ---
+Active connections: 107 
+server accepts handled requests
+ 432 432 293373 
+Reading: 0 Writing: 12 Waiting: 93 
+--- 13:40:19 ---
+Active connections: 107 
+server accepts handled requests
+ 450 450 314950 
+Reading: 0 Writing: 15 Waiting: 92 
+--- 13:40:20 ---
+Active connections: 107 
+server accepts handled requests
+ 500 500 337904 
+Reading: 0 Writing: 13 Waiting: 94 
+--- 13:40:21 ---
+Active connections: 107 
+server accepts handled requests
+ 519 519 357662 
+Reading: 0 Writing: 14 Waiting: 93 
+--- 13:40:22 ---
+Active connections: 107 
+server accepts handled requests
+ 531 531 377941 
+Reading: 0 Writing: 14 Waiting: 92 
+--- 13:40:23 ---
+Active connections: 107 
+server accepts handled requests
+ 546 546 399938 
+Reading: 0 Writing: 15 Waiting: 92 
+--- 13:40:25 ---
+Active connections: 107 
+server accepts handled requests
+ 571 571 419652 
+Reading: 1 Writing: 13 Waiting: 92 
+--- 13:40:26 ---
+Active connections: 107 
+server accepts handled requests
+ 609 609 441066 
+Reading: 1 Writing: 12 Waiting: 93 
+--- 13:40:27 ---
+Active connections: 107 
+server accepts handled requests
+ 626 626 461705 
+Reading: 0 Writing: 15 Waiting: 91 
+--- 13:40:28 ---
+Active connections: 103 
+server accepts handled requests
+ 724 724 467657 
+Reading: 0 Writing: 97 Waiting: 6 
+--- 13:40:29 ---
+Active connections: 107 
+server accepts handled requests
+ 729 729 467812 
+Reading: 0 Writing: 101 Waiting: 6 
+--- 13:40:31 ---
+Active connections: 107 
+server accepts handled requests
+ 730 730 468013 
+Reading: 0 Writing: 101 Waiting: 6 
+--- 13:40:33 ---
+Active connections: 106 
+server accepts handled requests
+ 731 731 468214 
+Reading: 0 Writing: 101 Waiting: 5 
+--- 13:40:35 ---
+Active connections: 104 
+server accepts handled requests
+ 732 732 468415 
+Reading: 0 Writing: 101 Waiting: 3 
+--- 13:40:37 ---
+Active connections: 104 
+server accepts handled requests
+ 733 733 468616 
+Reading: 0 Writing: 101 Waiting: 3 
+--- 13:40:39 ---
+Active connections: 104 
+server accepts handled requests
+ 734 734 468817 
+Reading: 0 Writing: 101 Waiting: 3 
+--- 13:40:41 ---
+Active connections: 104 
+server accepts handled requests
+ 735 735 469018 
+Reading: 0 Writing: 101 Waiting: 3 
+--- 13:40:43 ---
+Active connections: 104 
+server accepts handled requests
+ 736 736 469219 
+Reading: 0 Writing: 101 Waiting: 3 
+--- 13:40:45 ---
+Active connections: 104 
+server accepts handled requests
+ 737 737 469420 
+Reading: 0 Writing: 101 Waiting: 3 
+--- 13:40:47 ---
+Active connections: 104 
+server accepts handled requests
+ 738 738 469621 
+Reading: 0 Writing: 101 Waiting: 3 

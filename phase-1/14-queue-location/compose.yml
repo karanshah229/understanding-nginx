@@ -1,0 +1,37 @@
+services:
+    nginx:
+        container_name: nginx
+        build: ./nginx
+        ports:
+            - "8001:8001" # Kernel Queue
+            - "8002:8002" # NGINX Queue
+            - "8003:8003" # Backend Queue
+            - "80:80" # Status / Telemetry
+        sysctls:
+            - net.core.somaxconn=5
+        depends_on:
+            - backend
+        cpus: 0.5            # Limited to half a core to prevent CPU mask
+        mem_limit: 128m      # NGINX is lean; 128MB is plenty for proxying
+        ulimits:             # Explicitly capping FDs to observe limits if needed
+            nofile:
+                soft: 1024
+                hard: 1024
+        restart: always
+        networks:
+            - fd-limit-net
+
+    backend:
+        container_name: backend
+        build: ./backend
+        ports:
+            - "8081:8080"
+        cpus: 1.0            # Give Spring Boot a full core for its 50 threads
+        mem_limit: 512m
+        restart: always
+        networks:
+            - fd-limit-net
+
+networks:
+    fd-limit-net:
+        driver: bridge
